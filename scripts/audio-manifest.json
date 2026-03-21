@@ -1,0 +1,4002 @@
+[
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "01-morning-routine",
+    "lesson_title": "Morning Routine",
+    "example_index": 1,
+    "example_text": "I usually make coffee before breakfast.",
+    "audio_path": "audios/01-morning-routine/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "01-morning-routine",
+    "lesson_title": "Morning Routine",
+    "example_index": 2,
+    "example_text": "I usually check my phone before breakfast.",
+    "audio_path": "audios/01-morning-routine/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "01-morning-routine",
+    "lesson_title": "Morning Routine",
+    "example_index": 3,
+    "example_text": "I usually take a shower before breakfast.",
+    "audio_path": "audios/01-morning-routine/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "01-morning-routine",
+    "lesson_title": "Morning Routine",
+    "example_index": 4,
+    "example_text": "I usually get dressed before breakfast.",
+    "audio_path": "audios/01-morning-routine/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "01-morning-routine",
+    "lesson_title": "Morning Routine",
+    "example_index": 5,
+    "example_text": "I usually pack my bag before breakfast.",
+    "audio_path": "audios/01-morning-routine/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "02-about-to-start",
+    "lesson_title": "About to Start",
+    "example_index": 1,
+    "example_text": "I'm about to get dressed",
+    "audio_path": "audios/02-about-to-start/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "02-about-to-start",
+    "lesson_title": "About to Start",
+    "example_index": 2,
+    "example_text": "I'm about to pack my bag",
+    "audio_path": "audios/02-about-to-start/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "02-about-to-start",
+    "lesson_title": "About to Start",
+    "example_index": 3,
+    "example_text": "I'm about to do a quick stretch",
+    "audio_path": "audios/02-about-to-start/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "02-about-to-start",
+    "lesson_title": "About to Start",
+    "example_index": 4,
+    "example_text": "I'm about to water the plants",
+    "audio_path": "audios/02-about-to-start/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "02-about-to-start",
+    "lesson_title": "About to Start",
+    "example_index": 5,
+    "example_text": "I'm about to tidy up the kitchen",
+    "audio_path": "audios/02-about-to-start/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "03-just-need-to",
+    "lesson_title": "Just Need To",
+    "example_index": 1,
+    "example_text": "I just need to water the plants",
+    "audio_path": "audios/03-just-need-to/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "03-just-need-to",
+    "lesson_title": "Just Need To",
+    "example_index": 2,
+    "example_text": "I just need to tidy up the kitchen",
+    "audio_path": "audios/03-just-need-to/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "03-just-need-to",
+    "lesson_title": "Just Need To",
+    "example_index": 3,
+    "example_text": "I just need to grab breakfast",
+    "audio_path": "audios/03-just-need-to/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "03-just-need-to",
+    "lesson_title": "Just Need To",
+    "example_index": 4,
+    "example_text": "I just need to walk the dog",
+    "audio_path": "audios/03-just-need-to/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "03-just-need-to",
+    "lesson_title": "Just Need To",
+    "example_index": 5,
+    "example_text": "I just need to call my parents",
+    "audio_path": "audios/03-just-need-to/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "04-been-meaning-to",
+    "lesson_title": "Been Meaning To",
+    "example_index": 1,
+    "example_text": "I've been meaning to walk the dog",
+    "audio_path": "audios/04-been-meaning-to/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "04-been-meaning-to",
+    "lesson_title": "Been Meaning To",
+    "example_index": 2,
+    "example_text": "I've been meaning to call my parents",
+    "audio_path": "audios/04-been-meaning-to/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "04-been-meaning-to",
+    "lesson_title": "Been Meaning To",
+    "example_index": 3,
+    "example_text": "I've been meaning to pay a few bills",
+    "audio_path": "audios/04-been-meaning-to/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "04-been-meaning-to",
+    "lesson_title": "Been Meaning To",
+    "example_index": 4,
+    "example_text": "I've been meaning to take out the trash",
+    "audio_path": "audios/04-been-meaning-to/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "04-been-meaning-to",
+    "lesson_title": "Been Meaning To",
+    "example_index": 5,
+    "example_text": "I've been meaning to open the windows",
+    "audio_path": "audios/04-been-meaning-to/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "05-always-forget",
+    "lesson_title": "Always Forget",
+    "example_index": 1,
+    "example_text": "I always forget to take out the trash",
+    "audio_path": "audios/05-always-forget/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "05-always-forget",
+    "lesson_title": "Always Forget",
+    "example_index": 2,
+    "example_text": "I always forget to open the windows",
+    "audio_path": "audios/05-always-forget/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "05-always-forget",
+    "lesson_title": "Always Forget",
+    "example_index": 3,
+    "example_text": "I always forget to turn on some music",
+    "audio_path": "audios/05-always-forget/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "05-always-forget",
+    "lesson_title": "Always Forget",
+    "example_index": 4,
+    "example_text": "I always forget to read a few pages",
+    "audio_path": "audios/05-always-forget/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "05-always-forget",
+    "lesson_title": "Always Forget",
+    "example_index": 5,
+    "example_text": "I always forget to make the bed",
+    "audio_path": "audios/05-always-forget/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "06-morning-habit",
+    "lesson_title": "Morning Habit",
+    "example_index": 1,
+    "example_text": "I try to read a few pages every morning.",
+    "audio_path": "audios/06-morning-habit/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "06-morning-habit",
+    "lesson_title": "Morning Habit",
+    "example_index": 2,
+    "example_text": "I try to make the bed every morning.",
+    "audio_path": "audios/06-morning-habit/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "06-morning-habit",
+    "lesson_title": "Morning Habit",
+    "example_index": 3,
+    "example_text": "I try to head out early every morning.",
+    "audio_path": "audios/06-morning-habit/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "06-morning-habit",
+    "lesson_title": "Morning Habit",
+    "example_index": 4,
+    "example_text": "I try to heat up leftovers every morning.",
+    "audio_path": "audios/06-morning-habit/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "06-morning-habit",
+    "lesson_title": "Morning Habit",
+    "example_index": 5,
+    "example_text": "I try to wind down every morning.",
+    "audio_path": "audios/06-morning-habit/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "07-after-dinner",
+    "lesson_title": "After Dinner",
+    "example_index": 1,
+    "example_text": "I like to heat up leftovers after dinner.",
+    "audio_path": "audios/07-after-dinner/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "07-after-dinner",
+    "lesson_title": "After Dinner",
+    "example_index": 2,
+    "example_text": "I like to wind down after dinner.",
+    "audio_path": "audios/07-after-dinner/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "07-after-dinner",
+    "lesson_title": "After Dinner",
+    "example_index": 3,
+    "example_text": "I like to make coffee after dinner.",
+    "audio_path": "audios/07-after-dinner/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "07-after-dinner",
+    "lesson_title": "After Dinner",
+    "example_index": 4,
+    "example_text": "I like to check my phone after dinner.",
+    "audio_path": "audios/07-after-dinner/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "07-after-dinner",
+    "lesson_title": "After Dinner",
+    "example_index": 5,
+    "example_text": "I like to take a shower after dinner.",
+    "audio_path": "audios/07-after-dinner/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "08-can-t-start",
+    "lesson_title": "Can’t Start",
+    "example_index": 1,
+    "example_text": "I can't start my day without check my phone",
+    "audio_path": "audios/08-can-t-start/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "08-can-t-start",
+    "lesson_title": "Can’t Start",
+    "example_index": 2,
+    "example_text": "I can't start my day without take a shower",
+    "audio_path": "audios/08-can-t-start/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "08-can-t-start",
+    "lesson_title": "Can’t Start",
+    "example_index": 3,
+    "example_text": "I can't start my day without get dressed",
+    "audio_path": "audios/08-can-t-start/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "08-can-t-start",
+    "lesson_title": "Can’t Start",
+    "example_index": 4,
+    "example_text": "I can't start my day without pack my bag",
+    "audio_path": "audios/08-can-t-start/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "08-can-t-start",
+    "lesson_title": "Can’t Start",
+    "example_index": 5,
+    "example_text": "I can't start my day without do a quick stretch",
+    "audio_path": "audios/08-can-t-start/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "09-in-a-bit",
+    "lesson_title": "In A Bit",
+    "example_index": 1,
+    "example_text": "I'm going to pack my bag in a bit.",
+    "audio_path": "audios/09-in-a-bit/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "09-in-a-bit",
+    "lesson_title": "In A Bit",
+    "example_index": 2,
+    "example_text": "I'm going to do a quick stretch in a bit.",
+    "audio_path": "audios/09-in-a-bit/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "09-in-a-bit",
+    "lesson_title": "In A Bit",
+    "example_index": 3,
+    "example_text": "I'm going to water the plants in a bit.",
+    "audio_path": "audios/09-in-a-bit/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "09-in-a-bit",
+    "lesson_title": "In A Bit",
+    "example_index": 4,
+    "example_text": "I'm going to tidy up the kitchen in a bit.",
+    "audio_path": "audios/09-in-a-bit/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "09-in-a-bit",
+    "lesson_title": "In A Bit",
+    "example_index": 5,
+    "example_text": "I'm going to grab breakfast in a bit.",
+    "audio_path": "audios/09-in-a-bit/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "10-heading-out",
+    "lesson_title": "Heading Out",
+    "example_index": 1,
+    "example_text": "I'm heading out to tidy up the kitchen",
+    "audio_path": "audios/10-heading-out/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "10-heading-out",
+    "lesson_title": "Heading Out",
+    "example_index": 2,
+    "example_text": "I'm heading out to grab breakfast",
+    "audio_path": "audios/10-heading-out/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "10-heading-out",
+    "lesson_title": "Heading Out",
+    "example_index": 3,
+    "example_text": "I'm heading out to walk the dog",
+    "audio_path": "audios/10-heading-out/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "10-heading-out",
+    "lesson_title": "Heading Out",
+    "example_index": 4,
+    "example_text": "I'm heading out to call my parents",
+    "audio_path": "audios/10-heading-out/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "10-heading-out",
+    "lesson_title": "Heading Out",
+    "example_index": 5,
+    "example_text": "I'm heading out to pay a few bills",
+    "audio_path": "audios/10-heading-out/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "11-already-done",
+    "lesson_title": "Already Done",
+    "example_index": 1,
+    "example_text": "I've already call my parents",
+    "audio_path": "audios/11-already-done/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "11-already-done",
+    "lesson_title": "Already Done",
+    "example_index": 2,
+    "example_text": "I've already pay a few bills",
+    "audio_path": "audios/11-already-done/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "11-already-done",
+    "lesson_title": "Already Done",
+    "example_index": 3,
+    "example_text": "I've already take out the trash",
+    "audio_path": "audios/11-already-done/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "11-already-done",
+    "lesson_title": "Already Done",
+    "example_index": 4,
+    "example_text": "I've already open the windows",
+    "audio_path": "audios/11-already-done/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "11-already-done",
+    "lesson_title": "Already Done",
+    "example_index": 5,
+    "example_text": "I've already turn on some music",
+    "audio_path": "audios/11-already-done/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "12-just-finished",
+    "lesson_title": "Just Finished",
+    "example_index": 1,
+    "example_text": "I just finished open the windows",
+    "audio_path": "audios/12-just-finished/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "12-just-finished",
+    "lesson_title": "Just Finished",
+    "example_index": 2,
+    "example_text": "I just finished turn on some music",
+    "audio_path": "audios/12-just-finished/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "12-just-finished",
+    "lesson_title": "Just Finished",
+    "example_index": 3,
+    "example_text": "I just finished read a few pages",
+    "audio_path": "audios/12-just-finished/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "12-just-finished",
+    "lesson_title": "Just Finished",
+    "example_index": 4,
+    "example_text": "I just finished make the bed",
+    "audio_path": "audios/12-just-finished/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "12-just-finished",
+    "lesson_title": "Just Finished",
+    "example_index": 5,
+    "example_text": "I just finished head out early",
+    "audio_path": "audios/12-just-finished/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "13-need-a-minute",
+    "lesson_title": "Need A Minute",
+    "example_index": 1,
+    "example_text": "I need a minute to make the bed",
+    "audio_path": "audios/13-need-a-minute/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "13-need-a-minute",
+    "lesson_title": "Need A Minute",
+    "example_index": 2,
+    "example_text": "I need a minute to head out early",
+    "audio_path": "audios/13-need-a-minute/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "13-need-a-minute",
+    "lesson_title": "Need A Minute",
+    "example_index": 3,
+    "example_text": "I need a minute to heat up leftovers",
+    "audio_path": "audios/13-need-a-minute/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "13-need-a-minute",
+    "lesson_title": "Need A Minute",
+    "example_index": 4,
+    "example_text": "I need a minute to wind down",
+    "audio_path": "audios/13-need-a-minute/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "13-need-a-minute",
+    "lesson_title": "Need A Minute",
+    "example_index": 5,
+    "example_text": "I need a minute to make coffee",
+    "audio_path": "audios/13-need-a-minute/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "14-still-trying",
+    "lesson_title": "Still Trying",
+    "example_index": 1,
+    "example_text": "I'm still trying to wind down",
+    "audio_path": "audios/14-still-trying/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "14-still-trying",
+    "lesson_title": "Still Trying",
+    "example_index": 2,
+    "example_text": "I'm still trying to make coffee",
+    "audio_path": "audios/14-still-trying/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "14-still-trying",
+    "lesson_title": "Still Trying",
+    "example_index": 3,
+    "example_text": "I'm still trying to check my phone",
+    "audio_path": "audios/14-still-trying/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "14-still-trying",
+    "lesson_title": "Still Trying",
+    "example_index": 4,
+    "example_text": "I'm still trying to take a shower",
+    "audio_path": "audios/14-still-trying/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "14-still-trying",
+    "lesson_title": "Still Trying",
+    "example_index": 5,
+    "example_text": "I'm still trying to get dressed",
+    "audio_path": "audios/14-still-trying/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "15-gotten-used-to",
+    "lesson_title": "Gotten Used To",
+    "example_index": 1,
+    "example_text": "I've gotten used to take a shower",
+    "audio_path": "audios/15-gotten-used-to/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "15-gotten-used-to",
+    "lesson_title": "Gotten Used To",
+    "example_index": 2,
+    "example_text": "I've gotten used to get dressed",
+    "audio_path": "audios/15-gotten-used-to/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "15-gotten-used-to",
+    "lesson_title": "Gotten Used To",
+    "example_index": 3,
+    "example_text": "I've gotten used to pack my bag",
+    "audio_path": "audios/15-gotten-used-to/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "15-gotten-used-to",
+    "lesson_title": "Gotten Used To",
+    "example_index": 4,
+    "example_text": "I've gotten used to do a quick stretch",
+    "audio_path": "audios/15-gotten-used-to/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "15-gotten-used-to",
+    "lesson_title": "Gotten Used To",
+    "example_index": 5,
+    "example_text": "I've gotten used to water the plants",
+    "audio_path": "audios/15-gotten-used-to/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "16-planning-later",
+    "lesson_title": "Planning Later",
+    "example_index": 1,
+    "example_text": "I'm planning to do a quick stretch later.",
+    "audio_path": "audios/16-planning-later/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "16-planning-later",
+    "lesson_title": "Planning Later",
+    "example_index": 2,
+    "example_text": "I'm planning to water the plants later.",
+    "audio_path": "audios/16-planning-later/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "16-planning-later",
+    "lesson_title": "Planning Later",
+    "example_index": 3,
+    "example_text": "I'm planning to tidy up the kitchen later.",
+    "audio_path": "audios/16-planning-later/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "16-planning-later",
+    "lesson_title": "Planning Later",
+    "example_index": 4,
+    "example_text": "I'm planning to grab breakfast later.",
+    "audio_path": "audios/16-planning-later/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "16-planning-later",
+    "lesson_title": "Planning Later",
+    "example_index": 5,
+    "example_text": "I'm planning to walk the dog later.",
+    "audio_path": "audios/16-planning-later/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "17-in-the-habit",
+    "lesson_title": "In The Habit",
+    "example_index": 1,
+    "example_text": "I'm in the habit of grab breakfast",
+    "audio_path": "audios/17-in-the-habit/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "17-in-the-habit",
+    "lesson_title": "In The Habit",
+    "example_index": 2,
+    "example_text": "I'm in the habit of walk the dog",
+    "audio_path": "audios/17-in-the-habit/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "17-in-the-habit",
+    "lesson_title": "In The Habit",
+    "example_index": 3,
+    "example_text": "I'm in the habit of call my parents",
+    "audio_path": "audios/17-in-the-habit/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "17-in-the-habit",
+    "lesson_title": "In The Habit",
+    "example_index": 4,
+    "example_text": "I'm in the habit of pay a few bills",
+    "audio_path": "audios/17-in-the-habit/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "17-in-the-habit",
+    "lesson_title": "In The Habit",
+    "example_index": 5,
+    "example_text": "I'm in the habit of take out the trash",
+    "audio_path": "audios/17-in-the-habit/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "18-rather-than-nothing",
+    "lesson_title": "Rather Than Nothing",
+    "example_index": 1,
+    "example_text": "I'd rather pay a few bills than do nothing.",
+    "audio_path": "audios/18-rather-than-nothing/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "18-rather-than-nothing",
+    "lesson_title": "Rather Than Nothing",
+    "example_index": 2,
+    "example_text": "I'd rather take out the trash than do nothing.",
+    "audio_path": "audios/18-rather-than-nothing/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "18-rather-than-nothing",
+    "lesson_title": "Rather Than Nothing",
+    "example_index": 3,
+    "example_text": "I'd rather open the windows than do nothing.",
+    "audio_path": "audios/18-rather-than-nothing/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "18-rather-than-nothing",
+    "lesson_title": "Rather Than Nothing",
+    "example_index": 4,
+    "example_text": "I'd rather turn on some music than do nothing.",
+    "audio_path": "audios/18-rather-than-nothing/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "18-rather-than-nothing",
+    "lesson_title": "Rather Than Nothing",
+    "example_index": 5,
+    "example_text": "I'd rather read a few pages than do nothing.",
+    "audio_path": "audios/18-rather-than-nothing/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "19-before-i-leave",
+    "lesson_title": "Before I Leave",
+    "example_index": 1,
+    "example_text": "I have to turn on some music before I leave.",
+    "audio_path": "audios/19-before-i-leave/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "19-before-i-leave",
+    "lesson_title": "Before I Leave",
+    "example_index": 2,
+    "example_text": "I have to read a few pages before I leave.",
+    "audio_path": "audios/19-before-i-leave/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "19-before-i-leave",
+    "lesson_title": "Before I Leave",
+    "example_index": 3,
+    "example_text": "I have to make the bed before I leave.",
+    "audio_path": "audios/19-before-i-leave/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "19-before-i-leave",
+    "lesson_title": "Before I Leave",
+    "example_index": 4,
+    "example_text": "I have to head out early before I leave.",
+    "audio_path": "audios/19-before-i-leave/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "19-before-i-leave",
+    "lesson_title": "Before I Leave",
+    "example_index": 5,
+    "example_text": "I have to heat up leftovers before I leave.",
+    "audio_path": "audios/19-before-i-leave/05.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "20-winding-down",
+    "lesson_title": "Winding Down",
+    "example_index": 1,
+    "example_text": "I'm winding down by head out early",
+    "audio_path": "audios/20-winding-down/01.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "20-winding-down",
+    "lesson_title": "Winding Down",
+    "example_index": 2,
+    "example_text": "I'm winding down by heat up leftovers",
+    "audio_path": "audios/20-winding-down/02.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "20-winding-down",
+    "lesson_title": "Winding Down",
+    "example_index": 3,
+    "example_text": "I'm winding down by wind down",
+    "audio_path": "audios/20-winding-down/03.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "20-winding-down",
+    "lesson_title": "Winding Down",
+    "example_index": 4,
+    "example_text": "I'm winding down by make coffee",
+    "audio_path": "audios/20-winding-down/04.wav"
+  },
+  {
+    "scene_id": "daily-life",
+    "lesson_slug": "20-winding-down",
+    "lesson_title": "Winding Down",
+    "example_index": 5,
+    "example_text": "I'm winding down by check my phone",
+    "audio_path": "audios/20-winding-down/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "21-working-on",
+    "lesson_title": "Working On",
+    "example_index": 1,
+    "example_text": "I'm working on finishing this report right now.",
+    "audio_path": "audios/21-working-on/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "21-working-on",
+    "lesson_title": "Working On",
+    "example_index": 2,
+    "example_text": "I'm working on replying to those emails right now.",
+    "audio_path": "audios/21-working-on/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "21-working-on",
+    "lesson_title": "Working On",
+    "example_index": 3,
+    "example_text": "I'm working on the meeting prep right now.",
+    "audio_path": "audios/21-working-on/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "21-working-on",
+    "lesson_title": "Working On",
+    "example_index": 4,
+    "example_text": "I'm working on taking notes right now.",
+    "audio_path": "audios/21-working-on/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "21-working-on",
+    "lesson_title": "Working On",
+    "example_index": 5,
+    "example_text": "I'm working on the slides right now.",
+    "audio_path": "audios/21-working-on/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "22-turn-in",
+    "lesson_title": "Turn In",
+    "example_index": 1,
+    "example_text": "I need to turn in taking notes today.",
+    "audio_path": "audios/22-turn-in/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "22-turn-in",
+    "lesson_title": "Turn In",
+    "example_index": 2,
+    "example_text": "I need to turn in the slides today.",
+    "audio_path": "audios/22-turn-in/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "22-turn-in",
+    "lesson_title": "Turn In",
+    "example_index": 3,
+    "example_text": "I need to turn in asking for feedback today.",
+    "audio_path": "audios/22-turn-in/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "22-turn-in",
+    "lesson_title": "Turn In",
+    "example_index": 4,
+    "example_text": "I need to turn in the spreadsheet today.",
+    "audio_path": "audios/22-turn-in/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "22-turn-in",
+    "lesson_title": "Turn In",
+    "example_index": 5,
+    "example_text": "I need to turn in the draft today.",
+    "audio_path": "audios/22-turn-in/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "23-behind-on",
+    "lesson_title": "Behind On",
+    "example_index": 1,
+    "example_text": "I'm behind on the spreadsheet",
+    "audio_path": "audios/23-behind-on/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "23-behind-on",
+    "lesson_title": "Behind On",
+    "example_index": 2,
+    "example_text": "I'm behind on the draft",
+    "audio_path": "audios/23-behind-on/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "23-behind-on",
+    "lesson_title": "Behind On",
+    "example_index": 3,
+    "example_text": "I'm behind on the call setup",
+    "audio_path": "audios/23-behind-on/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "23-behind-on",
+    "lesson_title": "Behind On",
+    "example_index": 4,
+    "example_text": "I'm behind on the client follow-up",
+    "audio_path": "audios/23-behind-on/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "23-behind-on",
+    "lesson_title": "Behind On",
+    "example_index": 5,
+    "example_text": "I'm behind on the deadline",
+    "audio_path": "audios/23-behind-on/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "24-help-me-with",
+    "lesson_title": "Help Me With",
+    "example_index": 1,
+    "example_text": "Could you help me with the client follow-up?",
+    "audio_path": "audios/24-help-me-with/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "24-help-me-with",
+    "lesson_title": "Help Me With",
+    "example_index": 2,
+    "example_text": "Could you help me with the deadline?",
+    "audio_path": "audios/24-help-me-with/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "24-help-me-with",
+    "lesson_title": "Help Me With",
+    "example_index": 3,
+    "example_text": "Could you help me with my files?",
+    "audio_path": "audios/24-help-me-with/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "24-help-me-with",
+    "lesson_title": "Help Me With",
+    "example_index": 4,
+    "example_text": "Could you help me with the typo?",
+    "audio_path": "audios/24-help-me-with/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "24-help-me-with",
+    "lesson_title": "Help Me With",
+    "example_index": 5,
+    "example_text": "Could you help me with class prep?",
+    "audio_path": "audios/24-help-me-with/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "25-waiting-for",
+    "lesson_title": "Waiting For",
+    "example_index": 1,
+    "example_text": "I'm waiting for the typo",
+    "audio_path": "audios/25-waiting-for/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "25-waiting-for",
+    "lesson_title": "Waiting For",
+    "example_index": 2,
+    "example_text": "I'm waiting for class prep",
+    "audio_path": "audios/25-waiting-for/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "25-waiting-for",
+    "lesson_title": "Waiting For",
+    "example_index": 3,
+    "example_text": "I'm waiting for the comments",
+    "audio_path": "audios/25-waiting-for/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "25-waiting-for",
+    "lesson_title": "Waiting For",
+    "example_index": 4,
+    "example_text": "I'm waiting for the handout",
+    "audio_path": "audios/25-waiting-for/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "25-waiting-for",
+    "lesson_title": "Waiting For",
+    "example_index": 5,
+    "example_text": "I'm waiting for the summary",
+    "audio_path": "audios/25-waiting-for/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "26-follow-up",
+    "lesson_title": "Follow Up",
+    "example_index": 1,
+    "example_text": "I have to follow up on the handout",
+    "audio_path": "audios/26-follow-up/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "26-follow-up",
+    "lesson_title": "Follow Up",
+    "example_index": 2,
+    "example_text": "I have to follow up on the summary",
+    "audio_path": "audios/26-follow-up/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "26-follow-up",
+    "lesson_title": "Follow Up",
+    "example_index": 3,
+    "example_text": "I have to follow up on my notes",
+    "audio_path": "audios/26-follow-up/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "26-follow-up",
+    "lesson_title": "Follow Up",
+    "example_index": 4,
+    "example_text": "I have to follow up on the assignment",
+    "audio_path": "audios/26-follow-up/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "26-follow-up",
+    "lesson_title": "Follow Up",
+    "example_index": 5,
+    "example_text": "I have to follow up on the presentation",
+    "audio_path": "audios/26-follow-up/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "27-stay-on-top",
+    "lesson_title": "Stay On Top",
+    "example_index": 1,
+    "example_text": "I'm trying to stay on top of the assignment",
+    "audio_path": "audios/27-stay-on-top/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "27-stay-on-top",
+    "lesson_title": "Stay On Top",
+    "example_index": 2,
+    "example_text": "I'm trying to stay on top of the presentation",
+    "audio_path": "audios/27-stay-on-top/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "27-stay-on-top",
+    "lesson_title": "Stay On Top",
+    "example_index": 3,
+    "example_text": "I'm trying to stay on top of finishing this report",
+    "audio_path": "audios/27-stay-on-top/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "27-stay-on-top",
+    "lesson_title": "Stay On Top",
+    "example_index": 4,
+    "example_text": "I'm trying to stay on top of replying to those emails",
+    "audio_path": "audios/27-stay-on-top/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "27-stay-on-top",
+    "lesson_title": "Stay On Top",
+    "example_index": 5,
+    "example_text": "I'm trying to stay on top of the meeting prep",
+    "audio_path": "audios/27-stay-on-top/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "28-double-check",
+    "lesson_title": "Double Check",
+    "example_index": 1,
+    "example_text": "I'm double-checking replying to those emails",
+    "audio_path": "audios/28-double-check/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "28-double-check",
+    "lesson_title": "Double Check",
+    "example_index": 2,
+    "example_text": "I'm double-checking the meeting prep",
+    "audio_path": "audios/28-double-check/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "28-double-check",
+    "lesson_title": "Double Check",
+    "example_index": 3,
+    "example_text": "I'm double-checking taking notes",
+    "audio_path": "audios/28-double-check/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "28-double-check",
+    "lesson_title": "Double Check",
+    "example_index": 4,
+    "example_text": "I'm double-checking the slides",
+    "audio_path": "audios/28-double-check/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "28-double-check",
+    "lesson_title": "Double Check",
+    "example_index": 5,
+    "example_text": "I'm double-checking asking for feedback",
+    "audio_path": "audios/28-double-check/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "29-taking-care",
+    "lesson_title": "Taking Care",
+    "example_index": 1,
+    "example_text": "I'm taking care of the slides",
+    "audio_path": "audios/29-taking-care/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "29-taking-care",
+    "lesson_title": "Taking Care",
+    "example_index": 2,
+    "example_text": "I'm taking care of asking for feedback",
+    "audio_path": "audios/29-taking-care/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "29-taking-care",
+    "lesson_title": "Taking Care",
+    "example_index": 3,
+    "example_text": "I'm taking care of the spreadsheet",
+    "audio_path": "audios/29-taking-care/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "29-taking-care",
+    "lesson_title": "Taking Care",
+    "example_index": 4,
+    "example_text": "I'm taking care of the draft",
+    "audio_path": "audios/29-taking-care/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "29-taking-care",
+    "lesson_title": "Taking Care",
+    "example_index": 5,
+    "example_text": "I'm taking care of the call setup",
+    "audio_path": "audios/29-taking-care/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "30-meeting-about",
+    "lesson_title": "Meeting About",
+    "example_index": 1,
+    "example_text": "I've got to prepare the draft for the meeting.",
+    "audio_path": "audios/30-meeting-about/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "30-meeting-about",
+    "lesson_title": "Meeting About",
+    "example_index": 2,
+    "example_text": "I've got to prepare the call setup for the meeting.",
+    "audio_path": "audios/30-meeting-about/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "30-meeting-about",
+    "lesson_title": "Meeting About",
+    "example_index": 3,
+    "example_text": "I've got to prepare the client follow-up for the meeting.",
+    "audio_path": "audios/30-meeting-about/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "30-meeting-about",
+    "lesson_title": "Meeting About",
+    "example_index": 4,
+    "example_text": "I've got to prepare the deadline for the meeting.",
+    "audio_path": "audios/30-meeting-about/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "30-meeting-about",
+    "lesson_title": "Meeting About",
+    "example_index": 5,
+    "example_text": "I've got to prepare my files for the meeting.",
+    "audio_path": "audios/30-meeting-about/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "31-get-this-done",
+    "lesson_title": "Get This Done",
+    "example_index": 1,
+    "example_text": "I need to get this the deadline",
+    "audio_path": "audios/31-get-this-done/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "31-get-this-done",
+    "lesson_title": "Get This Done",
+    "example_index": 2,
+    "example_text": "I need to get this my files",
+    "audio_path": "audios/31-get-this-done/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "31-get-this-done",
+    "lesson_title": "Get This Done",
+    "example_index": 3,
+    "example_text": "I need to get this the typo",
+    "audio_path": "audios/31-get-this-done/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "31-get-this-done",
+    "lesson_title": "Get This Done",
+    "example_index": 4,
+    "example_text": "I need to get this class prep",
+    "audio_path": "audios/31-get-this-done/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "31-get-this-done",
+    "lesson_title": "Get This Done",
+    "example_index": 5,
+    "example_text": "I need to get this the comments",
+    "audio_path": "audios/31-get-this-done/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "32-supposed-to",
+    "lesson_title": "Supposed To",
+    "example_index": 1,
+    "example_text": "I'm supposed to class prep by noon.",
+    "audio_path": "audios/32-supposed-to/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "32-supposed-to",
+    "lesson_title": "Supposed To",
+    "example_index": 2,
+    "example_text": "I'm supposed to the comments by noon.",
+    "audio_path": "audios/32-supposed-to/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "32-supposed-to",
+    "lesson_title": "Supposed To",
+    "example_index": 3,
+    "example_text": "I'm supposed to the handout by noon.",
+    "audio_path": "audios/32-supposed-to/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "32-supposed-to",
+    "lesson_title": "Supposed To",
+    "example_index": 4,
+    "example_text": "I'm supposed to the summary by noon.",
+    "audio_path": "audios/32-supposed-to/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "32-supposed-to",
+    "lesson_title": "Supposed To",
+    "example_index": 5,
+    "example_text": "I'm supposed to my notes by noon.",
+    "audio_path": "audios/32-supposed-to/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "33-putting-together",
+    "lesson_title": "Putting Together",
+    "example_index": 1,
+    "example_text": "I'm putting together the summary",
+    "audio_path": "audios/33-putting-together/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "33-putting-together",
+    "lesson_title": "Putting Together",
+    "example_index": 2,
+    "example_text": "I'm putting together my notes",
+    "audio_path": "audios/33-putting-together/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "33-putting-together",
+    "lesson_title": "Putting Together",
+    "example_index": 3,
+    "example_text": "I'm putting together the assignment",
+    "audio_path": "audios/33-putting-together/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "33-putting-together",
+    "lesson_title": "Putting Together",
+    "example_index": 4,
+    "example_text": "I'm putting together the presentation",
+    "audio_path": "audios/33-putting-together/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "33-putting-together",
+    "lesson_title": "Putting Together",
+    "example_index": 5,
+    "example_text": "I'm putting together finishing this report",
+    "audio_path": "audios/33-putting-together/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "34-sorting-out",
+    "lesson_title": "Sorting Out",
+    "example_index": 1,
+    "example_text": "I'm still sorting out the presentation",
+    "audio_path": "audios/34-sorting-out/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "34-sorting-out",
+    "lesson_title": "Sorting Out",
+    "example_index": 2,
+    "example_text": "I'm still sorting out finishing this report",
+    "audio_path": "audios/34-sorting-out/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "34-sorting-out",
+    "lesson_title": "Sorting Out",
+    "example_index": 3,
+    "example_text": "I'm still sorting out replying to those emails",
+    "audio_path": "audios/34-sorting-out/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "34-sorting-out",
+    "lesson_title": "Sorting Out",
+    "example_index": 4,
+    "example_text": "I'm still sorting out the meeting prep",
+    "audio_path": "audios/34-sorting-out/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "34-sorting-out",
+    "lesson_title": "Sorting Out",
+    "example_index": 5,
+    "example_text": "I'm still sorting out taking notes",
+    "audio_path": "audios/34-sorting-out/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "35-run-this-by",
+    "lesson_title": "Run This By",
+    "example_index": 1,
+    "example_text": "I'm running this by the meeting prep",
+    "audio_path": "audios/35-run-this-by/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "35-run-this-by",
+    "lesson_title": "Run This By",
+    "example_index": 2,
+    "example_text": "I'm running this by taking notes",
+    "audio_path": "audios/35-run-this-by/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "35-run-this-by",
+    "lesson_title": "Run This By",
+    "example_index": 3,
+    "example_text": "I'm running this by the slides",
+    "audio_path": "audios/35-run-this-by/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "35-run-this-by",
+    "lesson_title": "Run This By",
+    "example_index": 4,
+    "example_text": "I'm running this by asking for feedback",
+    "audio_path": "audios/35-run-this-by/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "35-run-this-by",
+    "lesson_title": "Run This By",
+    "example_index": 5,
+    "example_text": "I'm running this by the spreadsheet",
+    "audio_path": "audios/35-run-this-by/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "36-make-sure",
+    "lesson_title": "Make Sure",
+    "example_index": 1,
+    "example_text": "I need to make sure I asking for feedback",
+    "audio_path": "audios/36-make-sure/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "36-make-sure",
+    "lesson_title": "Make Sure",
+    "example_index": 2,
+    "example_text": "I need to make sure I the spreadsheet",
+    "audio_path": "audios/36-make-sure/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "36-make-sure",
+    "lesson_title": "Make Sure",
+    "example_index": 3,
+    "example_text": "I need to make sure I the draft",
+    "audio_path": "audios/36-make-sure/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "36-make-sure",
+    "lesson_title": "Make Sure",
+    "example_index": 4,
+    "example_text": "I need to make sure I the call setup",
+    "audio_path": "audios/36-make-sure/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "36-make-sure",
+    "lesson_title": "Make Sure",
+    "example_index": 5,
+    "example_text": "I need to make sure I the client follow-up",
+    "audio_path": "audios/36-make-sure/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "37-setting-up",
+    "lesson_title": "Setting Up",
+    "example_index": 1,
+    "example_text": "I'm setting up the call setup now.",
+    "audio_path": "audios/37-setting-up/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "37-setting-up",
+    "lesson_title": "Setting Up",
+    "example_index": 2,
+    "example_text": "I'm setting up the client follow-up now.",
+    "audio_path": "audios/37-setting-up/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "37-setting-up",
+    "lesson_title": "Setting Up",
+    "example_index": 3,
+    "example_text": "I'm setting up the deadline now.",
+    "audio_path": "audios/37-setting-up/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "37-setting-up",
+    "lesson_title": "Setting Up",
+    "example_index": 4,
+    "example_text": "I'm setting up my files now.",
+    "audio_path": "audios/37-setting-up/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "37-setting-up",
+    "lesson_title": "Setting Up",
+    "example_index": 5,
+    "example_text": "I'm setting up the typo now.",
+    "audio_path": "audios/37-setting-up/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "38-checking-in",
+    "lesson_title": "Checking In",
+    "example_index": 1,
+    "example_text": "I'm checking in on my files",
+    "audio_path": "audios/38-checking-in/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "38-checking-in",
+    "lesson_title": "Checking In",
+    "example_index": 2,
+    "example_text": "I'm checking in on the typo",
+    "audio_path": "audios/38-checking-in/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "38-checking-in",
+    "lesson_title": "Checking In",
+    "example_index": 3,
+    "example_text": "I'm checking in on class prep",
+    "audio_path": "audios/38-checking-in/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "38-checking-in",
+    "lesson_title": "Checking In",
+    "example_index": 4,
+    "example_text": "I'm checking in on the comments",
+    "audio_path": "audios/38-checking-in/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "38-checking-in",
+    "lesson_title": "Checking In",
+    "example_index": 5,
+    "example_text": "I'm checking in on the handout",
+    "audio_path": "audios/38-checking-in/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "39-ask-about",
+    "lesson_title": "Ask About",
+    "example_index": 1,
+    "example_text": "I'd like to ask about the comments",
+    "audio_path": "audios/39-ask-about/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "39-ask-about",
+    "lesson_title": "Ask About",
+    "example_index": 2,
+    "example_text": "I'd like to ask about the handout",
+    "audio_path": "audios/39-ask-about/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "39-ask-about",
+    "lesson_title": "Ask About",
+    "example_index": 3,
+    "example_text": "I'd like to ask about the summary",
+    "audio_path": "audios/39-ask-about/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "39-ask-about",
+    "lesson_title": "Ask About",
+    "example_index": 4,
+    "example_text": "I'd like to ask about my notes",
+    "audio_path": "audios/39-ask-about/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "39-ask-about",
+    "lesson_title": "Ask About",
+    "example_index": 5,
+    "example_text": "I'd like to ask about the assignment",
+    "audio_path": "audios/39-ask-about/05.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "40-pushing-to-finish",
+    "lesson_title": "Pushing To Finish",
+    "example_index": 1,
+    "example_text": "I'm pushing to finish my notes",
+    "audio_path": "audios/40-pushing-to-finish/01.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "40-pushing-to-finish",
+    "lesson_title": "Pushing To Finish",
+    "example_index": 2,
+    "example_text": "I'm pushing to finish the assignment",
+    "audio_path": "audios/40-pushing-to-finish/02.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "40-pushing-to-finish",
+    "lesson_title": "Pushing To Finish",
+    "example_index": 3,
+    "example_text": "I'm pushing to finish the presentation",
+    "audio_path": "audios/40-pushing-to-finish/03.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "40-pushing-to-finish",
+    "lesson_title": "Pushing To Finish",
+    "example_index": 4,
+    "example_text": "I'm pushing to finish finishing this report",
+    "audio_path": "audios/40-pushing-to-finish/04.wav"
+  },
+  {
+    "scene_id": "work-school",
+    "lesson_slug": "40-pushing-to-finish",
+    "lesson_title": "Pushing To Finish",
+    "example_index": 5,
+    "example_text": "I'm pushing to finish replying to those emails",
+    "audio_path": "audios/40-pushing-to-finish/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "41-free-later",
+    "lesson_title": "Free Later",
+    "example_index": 1,
+    "example_text": "Are you free to grab dinner later?",
+    "audio_path": "audios/41-free-later/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "41-free-later",
+    "lesson_title": "Free Later",
+    "example_index": 2,
+    "example_text": "Are you free to catch a movie later?",
+    "audio_path": "audios/41-free-later/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "41-free-later",
+    "lesson_title": "Free Later",
+    "example_index": 3,
+    "example_text": "Are you free to meet for coffee later?",
+    "audio_path": "audios/41-free-later/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "41-free-later",
+    "lesson_title": "Free Later",
+    "example_index": 4,
+    "example_text": "Are you free to go for a walk later?",
+    "audio_path": "audios/41-free-later/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "41-free-later",
+    "lesson_title": "Free Later",
+    "example_index": 5,
+    "example_text": "Are you free to check out the new place later?",
+    "audio_path": "audios/41-free-later/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "42-want-to-tonight",
+    "lesson_title": "Want To Tonight",
+    "example_index": 1,
+    "example_text": "Do you want to go for a walk tonight?",
+    "audio_path": "audios/42-want-to-tonight/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "42-want-to-tonight",
+    "lesson_title": "Want To Tonight",
+    "example_index": 2,
+    "example_text": "Do you want to check out the new place tonight?",
+    "audio_path": "audios/42-want-to-tonight/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "42-want-to-tonight",
+    "lesson_title": "Want To Tonight",
+    "example_index": 3,
+    "example_text": "Do you want to hang out tonight?",
+    "audio_path": "audios/42-want-to-tonight/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "42-want-to-tonight",
+    "lesson_title": "Want To Tonight",
+    "example_index": 4,
+    "example_text": "Do you want to celebrate a little tonight?",
+    "audio_path": "audios/42-want-to-tonight/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "42-want-to-tonight",
+    "lesson_title": "Want To Tonight",
+    "example_index": 5,
+    "example_text": "Do you want to have a quick chat tonight?",
+    "audio_path": "audios/42-want-to-tonight/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "43-thinking-of",
+    "lesson_title": "Thinking Of",
+    "example_index": 1,
+    "example_text": "I was thinking we could celebrate a little",
+    "audio_path": "audios/43-thinking-of/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "43-thinking-of",
+    "lesson_title": "Thinking Of",
+    "example_index": 2,
+    "example_text": "I was thinking we could have a quick chat",
+    "audio_path": "audios/43-thinking-of/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "43-thinking-of",
+    "lesson_title": "Thinking Of",
+    "example_index": 3,
+    "example_text": "I was thinking we could stop by later",
+    "audio_path": "audios/43-thinking-of/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "43-thinking-of",
+    "lesson_title": "Thinking Of",
+    "example_index": 4,
+    "example_text": "I was thinking we could pick you up",
+    "audio_path": "audios/43-thinking-of/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "43-thinking-of",
+    "lesson_title": "Thinking Of",
+    "example_index": 5,
+    "example_text": "I was thinking we could swing by the cafe",
+    "audio_path": "audios/43-thinking-of/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "44-after-work",
+    "lesson_title": "After Work",
+    "example_index": 1,
+    "example_text": "Let's pick you up after work.",
+    "audio_path": "audios/44-after-work/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "44-after-work",
+    "lesson_title": "After Work",
+    "example_index": 2,
+    "example_text": "Let's swing by the cafe after work.",
+    "audio_path": "audios/44-after-work/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "44-after-work",
+    "lesson_title": "After Work",
+    "example_index": 3,
+    "example_text": "Let's make a reservation after work.",
+    "audio_path": "audios/44-after-work/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "44-after-work",
+    "lesson_title": "After Work",
+    "example_index": 4,
+    "example_text": "Let's bring something to share after work.",
+    "audio_path": "audios/44-after-work/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "44-after-work",
+    "lesson_title": "After Work",
+    "example_index": 5,
+    "example_text": "Let's take a rain check after work.",
+    "audio_path": "audios/44-after-work/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "45-meet-you",
+    "lesson_title": "Meet You",
+    "example_index": 1,
+    "example_text": "I can meet you at bring something to share",
+    "audio_path": "audios/45-meet-you/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "45-meet-you",
+    "lesson_title": "Meet You",
+    "example_index": 2,
+    "example_text": "I can meet you at take a rain check",
+    "audio_path": "audios/45-meet-you/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "45-meet-you",
+    "lesson_title": "Meet You",
+    "example_index": 3,
+    "example_text": "I can meet you at stay in tonight",
+    "audio_path": "audios/45-meet-you/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "45-meet-you",
+    "lesson_title": "Meet You",
+    "example_index": 4,
+    "example_text": "I can meet you at head to the airport",
+    "audio_path": "audios/45-meet-you/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "45-meet-you",
+    "lesson_title": "Meet You",
+    "example_index": 5,
+    "example_text": "I can meet you at join us after work",
+    "audio_path": "audios/45-meet-you/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "46-figure-out-when",
+    "lesson_title": "Figure Out When",
+    "example_index": 1,
+    "example_text": "I'm trying to figure out when to head to the airport",
+    "audio_path": "audios/46-figure-out-when/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "46-figure-out-when",
+    "lesson_title": "Figure Out When",
+    "example_index": 2,
+    "example_text": "I'm trying to figure out when to join us after work",
+    "audio_path": "audios/46-figure-out-when/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "46-figure-out-when",
+    "lesson_title": "Figure Out When",
+    "example_index": 3,
+    "example_text": "I'm trying to figure out when to split the bill",
+    "audio_path": "audios/46-figure-out-when/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "46-figure-out-when",
+    "lesson_title": "Figure Out When",
+    "example_index": 4,
+    "example_text": "I'm trying to figure out when to grab drinks",
+    "audio_path": "audios/46-figure-out-when/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "46-figure-out-when",
+    "lesson_title": "Figure Out When",
+    "example_index": 5,
+    "example_text": "I'm trying to figure out when to plan something low-key",
+    "audio_path": "audios/46-figure-out-when/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "47-should-probably",
+    "lesson_title": "Should Probably",
+    "example_index": 1,
+    "example_text": "We should probably grab drinks first.",
+    "audio_path": "audios/47-should-probably/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "47-should-probably",
+    "lesson_title": "Should Probably",
+    "example_index": 2,
+    "example_text": "We should probably plan something low-key first.",
+    "audio_path": "audios/47-should-probably/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "47-should-probably",
+    "lesson_title": "Should Probably",
+    "example_index": 3,
+    "example_text": "We should probably grab dinner first.",
+    "audio_path": "audios/47-should-probably/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "47-should-probably",
+    "lesson_title": "Should Probably",
+    "example_index": 4,
+    "example_text": "We should probably catch a movie first.",
+    "audio_path": "audios/47-should-probably/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "47-should-probably",
+    "lesson_title": "Should Probably",
+    "example_index": 5,
+    "example_text": "We should probably meet for coffee first.",
+    "audio_path": "audios/47-should-probably/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "48-let-you-know",
+    "lesson_title": "Let You Know",
+    "example_index": 1,
+    "example_text": "I'll let you know if I can catch a movie",
+    "audio_path": "audios/48-let-you-know/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "48-let-you-know",
+    "lesson_title": "Let You Know",
+    "example_index": 2,
+    "example_text": "I'll let you know if I can meet for coffee",
+    "audio_path": "audios/48-let-you-know/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "48-let-you-know",
+    "lesson_title": "Let You Know",
+    "example_index": 3,
+    "example_text": "I'll let you know if I can go for a walk",
+    "audio_path": "audios/48-let-you-know/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "48-let-you-know",
+    "lesson_title": "Let You Know",
+    "example_index": 4,
+    "example_text": "I'll let you know if I can check out the new place",
+    "audio_path": "audios/48-let-you-know/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "48-let-you-know",
+    "lesson_title": "Let You Know",
+    "example_index": 5,
+    "example_text": "I'll let you know if I can hang out",
+    "audio_path": "audios/48-let-you-know/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "49-confirm-whether",
+    "lesson_title": "Confirm Whether",
+    "example_index": 1,
+    "example_text": "I need to confirm whether we can check out the new place",
+    "audio_path": "audios/49-confirm-whether/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "49-confirm-whether",
+    "lesson_title": "Confirm Whether",
+    "example_index": 2,
+    "example_text": "I need to confirm whether we can hang out",
+    "audio_path": "audios/49-confirm-whether/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "49-confirm-whether",
+    "lesson_title": "Confirm Whether",
+    "example_index": 3,
+    "example_text": "I need to confirm whether we can celebrate a little",
+    "audio_path": "audios/49-confirm-whether/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "49-confirm-whether",
+    "lesson_title": "Confirm Whether",
+    "example_index": 4,
+    "example_text": "I need to confirm whether we can have a quick chat",
+    "audio_path": "audios/49-confirm-whether/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "49-confirm-whether",
+    "lesson_title": "Confirm Whether",
+    "example_index": 5,
+    "example_text": "I need to confirm whether we can stop by later",
+    "audio_path": "audios/49-confirm-whether/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "50-hoping-to",
+    "lesson_title": "Hoping To",
+    "example_index": 1,
+    "example_text": "I'm hoping to have a quick chat this weekend.",
+    "audio_path": "audios/50-hoping-to/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "50-hoping-to",
+    "lesson_title": "Hoping To",
+    "example_index": 2,
+    "example_text": "I'm hoping to stop by later this weekend.",
+    "audio_path": "audios/50-hoping-to/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "50-hoping-to",
+    "lesson_title": "Hoping To",
+    "example_index": 3,
+    "example_text": "I'm hoping to pick you up this weekend.",
+    "audio_path": "audios/50-hoping-to/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "50-hoping-to",
+    "lesson_title": "Hoping To",
+    "example_index": 4,
+    "example_text": "I'm hoping to swing by the cafe this weekend.",
+    "audio_path": "audios/50-hoping-to/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "50-hoping-to",
+    "lesson_title": "Hoping To",
+    "example_index": 5,
+    "example_text": "I'm hoping to make a reservation this weekend.",
+    "audio_path": "audios/50-hoping-to/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "51-down-to",
+    "lesson_title": "Down To",
+    "example_index": 1,
+    "example_text": "I'm down to swing by the cafe",
+    "audio_path": "audios/51-down-to/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "51-down-to",
+    "lesson_title": "Down To",
+    "example_index": 2,
+    "example_text": "I'm down to make a reservation",
+    "audio_path": "audios/51-down-to/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "51-down-to",
+    "lesson_title": "Down To",
+    "example_index": 3,
+    "example_text": "I'm down to bring something to share",
+    "audio_path": "audios/51-down-to/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "51-down-to",
+    "lesson_title": "Down To",
+    "example_index": 4,
+    "example_text": "I'm down to take a rain check",
+    "audio_path": "audios/51-down-to/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "51-down-to",
+    "lesson_title": "Down To",
+    "example_index": 5,
+    "example_text": "I'm down to stay in tonight",
+    "audio_path": "audios/51-down-to/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "52-rather-than-stay-in",
+    "lesson_title": "Rather Than Stay In",
+    "example_index": 1,
+    "example_text": "I'd rather take a rain check than stay home.",
+    "audio_path": "audios/52-rather-than-stay-in/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "52-rather-than-stay-in",
+    "lesson_title": "Rather Than Stay In",
+    "example_index": 2,
+    "example_text": "I'd rather stay in tonight than stay home.",
+    "audio_path": "audios/52-rather-than-stay-in/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "52-rather-than-stay-in",
+    "lesson_title": "Rather Than Stay In",
+    "example_index": 3,
+    "example_text": "I'd rather head to the airport than stay home.",
+    "audio_path": "audios/52-rather-than-stay-in/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "52-rather-than-stay-in",
+    "lesson_title": "Rather Than Stay In",
+    "example_index": 4,
+    "example_text": "I'd rather join us after work than stay home.",
+    "audio_path": "audios/52-rather-than-stay-in/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "52-rather-than-stay-in",
+    "lesson_title": "Rather Than Stay In",
+    "example_index": 5,
+    "example_text": "I'd rather split the bill than stay home.",
+    "audio_path": "audios/52-rather-than-stay-in/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "53-in-the-mood-for",
+    "lesson_title": "In The Mood For",
+    "example_index": 1,
+    "example_text": "I'm in the mood for join us after work",
+    "audio_path": "audios/53-in-the-mood-for/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "53-in-the-mood-for",
+    "lesson_title": "In The Mood For",
+    "example_index": 2,
+    "example_text": "I'm in the mood for split the bill",
+    "audio_path": "audios/53-in-the-mood-for/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "53-in-the-mood-for",
+    "lesson_title": "In The Mood For",
+    "example_index": 3,
+    "example_text": "I'm in the mood for grab drinks",
+    "audio_path": "audios/53-in-the-mood-for/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "53-in-the-mood-for",
+    "lesson_title": "In The Mood For",
+    "example_index": 4,
+    "example_text": "I'm in the mood for plan something low-key",
+    "audio_path": "audios/53-in-the-mood-for/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "53-in-the-mood-for",
+    "lesson_title": "In The Mood For",
+    "example_index": 5,
+    "example_text": "I'm in the mood for grab dinner",
+    "audio_path": "audios/53-in-the-mood-for/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "54-making-plans",
+    "lesson_title": "Making Plans",
+    "example_index": 1,
+    "example_text": "I'm making plans to plan something low-key",
+    "audio_path": "audios/54-making-plans/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "54-making-plans",
+    "lesson_title": "Making Plans",
+    "example_index": 2,
+    "example_text": "I'm making plans to grab dinner",
+    "audio_path": "audios/54-making-plans/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "54-making-plans",
+    "lesson_title": "Making Plans",
+    "example_index": 3,
+    "example_text": "I'm making plans to catch a movie",
+    "audio_path": "audios/54-making-plans/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "54-making-plans",
+    "lesson_title": "Making Plans",
+    "example_index": 4,
+    "example_text": "I'm making plans to meet for coffee",
+    "audio_path": "audios/54-making-plans/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "54-making-plans",
+    "lesson_title": "Making Plans",
+    "example_index": 5,
+    "example_text": "I'm making plans to go for a walk",
+    "audio_path": "audios/54-making-plans/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "55-waiting-to-hear-back",
+    "lesson_title": "Waiting To Hear Back",
+    "example_index": 1,
+    "example_text": "I'm waiting to hear back about meet for coffee",
+    "audio_path": "audios/55-waiting-to-hear-back/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "55-waiting-to-hear-back",
+    "lesson_title": "Waiting To Hear Back",
+    "example_index": 2,
+    "example_text": "I'm waiting to hear back about go for a walk",
+    "audio_path": "audios/55-waiting-to-hear-back/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "55-waiting-to-hear-back",
+    "lesson_title": "Waiting To Hear Back",
+    "example_index": 3,
+    "example_text": "I'm waiting to hear back about check out the new place",
+    "audio_path": "audios/55-waiting-to-hear-back/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "55-waiting-to-hear-back",
+    "lesson_title": "Waiting To Hear Back",
+    "example_index": 4,
+    "example_text": "I'm waiting to hear back about hang out",
+    "audio_path": "audios/55-waiting-to-hear-back/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "55-waiting-to-hear-back",
+    "lesson_title": "Waiting To Hear Back",
+    "example_index": 5,
+    "example_text": "I'm waiting to hear back about celebrate a little",
+    "audio_path": "audios/55-waiting-to-hear-back/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "56-can-we-do",
+    "lesson_title": "Can We Do",
+    "example_index": 1,
+    "example_text": "Can we hang out instead?",
+    "audio_path": "audios/56-can-we-do/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "56-can-we-do",
+    "lesson_title": "Can We Do",
+    "example_index": 2,
+    "example_text": "Can we celebrate a little instead?",
+    "audio_path": "audios/56-can-we-do/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "56-can-we-do",
+    "lesson_title": "Can We Do",
+    "example_index": 3,
+    "example_text": "Can we have a quick chat instead?",
+    "audio_path": "audios/56-can-we-do/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "56-can-we-do",
+    "lesson_title": "Can We Do",
+    "example_index": 4,
+    "example_text": "Can we stop by later instead?",
+    "audio_path": "audios/56-can-we-do/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "56-can-we-do",
+    "lesson_title": "Can We Do",
+    "example_index": 5,
+    "example_text": "Can we pick you up instead?",
+    "audio_path": "audios/56-can-we-do/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "57-text-you-later",
+    "lesson_title": "Text You Later",
+    "example_index": 1,
+    "example_text": "I'll text you when I'm done with stop by later",
+    "audio_path": "audios/57-text-you-later/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "57-text-you-later",
+    "lesson_title": "Text You Later",
+    "example_index": 2,
+    "example_text": "I'll text you when I'm done with pick you up",
+    "audio_path": "audios/57-text-you-later/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "57-text-you-later",
+    "lesson_title": "Text You Later",
+    "example_index": 3,
+    "example_text": "I'll text you when I'm done with swing by the cafe",
+    "audio_path": "audios/57-text-you-later/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "57-text-you-later",
+    "lesson_title": "Text You Later",
+    "example_index": 4,
+    "example_text": "I'll text you when I'm done with make a reservation",
+    "audio_path": "audios/57-text-you-later/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "57-text-you-later",
+    "lesson_title": "Text You Later",
+    "example_index": 5,
+    "example_text": "I'll text you when I'm done with bring something to share",
+    "audio_path": "audios/57-text-you-later/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "58-keep-open",
+    "lesson_title": "Keep Open",
+    "example_index": 1,
+    "example_text": "I'm just trying to keep make a reservation open.",
+    "audio_path": "audios/58-keep-open/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "58-keep-open",
+    "lesson_title": "Keep Open",
+    "example_index": 2,
+    "example_text": "I'm just trying to keep bring something to share open.",
+    "audio_path": "audios/58-keep-open/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "58-keep-open",
+    "lesson_title": "Keep Open",
+    "example_index": 3,
+    "example_text": "I'm just trying to keep take a rain check open.",
+    "audio_path": "audios/58-keep-open/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "58-keep-open",
+    "lesson_title": "Keep Open",
+    "example_index": 4,
+    "example_text": "I'm just trying to keep stay in tonight open.",
+    "audio_path": "audios/58-keep-open/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "58-keep-open",
+    "lesson_title": "Keep Open",
+    "example_index": 5,
+    "example_text": "I'm just trying to keep head to the airport open.",
+    "audio_path": "audios/58-keep-open/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "59-might-have-to-cancel",
+    "lesson_title": "Might Have To Cancel",
+    "example_index": 1,
+    "example_text": "I might have to cancel if I can't make stay in tonight",
+    "audio_path": "audios/59-might-have-to-cancel/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "59-might-have-to-cancel",
+    "lesson_title": "Might Have To Cancel",
+    "example_index": 2,
+    "example_text": "I might have to cancel if I can't make head to the airport",
+    "audio_path": "audios/59-might-have-to-cancel/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "59-might-have-to-cancel",
+    "lesson_title": "Might Have To Cancel",
+    "example_index": 3,
+    "example_text": "I might have to cancel if I can't make join us after work",
+    "audio_path": "audios/59-might-have-to-cancel/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "59-might-have-to-cancel",
+    "lesson_title": "Might Have To Cancel",
+    "example_index": 4,
+    "example_text": "I might have to cancel if I can't make split the bill",
+    "audio_path": "audios/59-might-have-to-cancel/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "59-might-have-to-cancel",
+    "lesson_title": "Might Have To Cancel",
+    "example_index": 5,
+    "example_text": "I might have to cancel if I can't make grab drinks",
+    "audio_path": "audios/59-might-have-to-cancel/05.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "60-don-t-forget",
+    "lesson_title": "Don’t Forget",
+    "example_index": 1,
+    "example_text": "Let's not forget to split the bill",
+    "audio_path": "audios/60-don-t-forget/01.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "60-don-t-forget",
+    "lesson_title": "Don’t Forget",
+    "example_index": 2,
+    "example_text": "Let's not forget to grab drinks",
+    "audio_path": "audios/60-don-t-forget/02.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "60-don-t-forget",
+    "lesson_title": "Don’t Forget",
+    "example_index": 3,
+    "example_text": "Let's not forget to plan something low-key",
+    "audio_path": "audios/60-don-t-forget/03.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "60-don-t-forget",
+    "lesson_title": "Don’t Forget",
+    "example_index": 4,
+    "example_text": "Let's not forget to grab dinner",
+    "audio_path": "audios/60-don-t-forget/04.wav"
+  },
+  {
+    "scene_id": "social-plans",
+    "lesson_slug": "60-don-t-forget",
+    "lesson_title": "Don’t Forget",
+    "example_index": 5,
+    "example_text": "Let's not forget to catch a movie",
+    "audio_path": "audios/60-don-t-forget/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "61-can-t-seem-to",
+    "lesson_title": "Can’t Seem To",
+    "example_index": 1,
+    "example_text": "I can't seem to open the app",
+    "audio_path": "audios/61-can-t-seem-to/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "61-can-t-seem-to",
+    "lesson_title": "Can’t Seem To",
+    "example_index": 2,
+    "example_text": "I can't seem to log in",
+    "audio_path": "audios/61-can-t-seem-to/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "61-can-t-seem-to",
+    "lesson_title": "Can’t Seem To",
+    "example_index": 3,
+    "example_text": "I can't seem to send the file",
+    "audio_path": "audios/61-can-t-seem-to/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "61-can-t-seem-to",
+    "lesson_title": "Can’t Seem To",
+    "example_index": 4,
+    "example_text": "I can't seem to connect the printer",
+    "audio_path": "audios/61-can-t-seem-to/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "61-can-t-seem-to",
+    "lesson_title": "Can’t Seem To",
+    "example_index": 5,
+    "example_text": "I can't seem to save the changes",
+    "audio_path": "audios/61-can-t-seem-to/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "62-went-wrong",
+    "lesson_title": "Went Wrong",
+    "example_index": 1,
+    "example_text": "Something went wrong with connect the printer",
+    "audio_path": "audios/62-went-wrong/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "62-went-wrong",
+    "lesson_title": "Went Wrong",
+    "example_index": 2,
+    "example_text": "Something went wrong with save the changes",
+    "audio_path": "audios/62-went-wrong/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "62-went-wrong",
+    "lesson_title": "Went Wrong",
+    "example_index": 3,
+    "example_text": "Something went wrong with clear the cache",
+    "audio_path": "audios/62-went-wrong/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "62-went-wrong",
+    "lesson_title": "Went Wrong",
+    "example_index": 4,
+    "example_text": "Something went wrong with get the video to play",
+    "audio_path": "audios/62-went-wrong/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "62-went-wrong",
+    "lesson_title": "Went Wrong",
+    "example_index": 5,
+    "example_text": "Something went wrong with reset the password",
+    "audio_path": "audios/62-went-wrong/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "63-messed-up",
+    "lesson_title": "Messed Up",
+    "example_index": 1,
+    "example_text": "I think I messed up get the video to play",
+    "audio_path": "audios/63-messed-up/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "63-messed-up",
+    "lesson_title": "Messed Up",
+    "example_index": 2,
+    "example_text": "I think I messed up reset the password",
+    "audio_path": "audios/63-messed-up/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "63-messed-up",
+    "lesson_title": "Messed Up",
+    "example_index": 3,
+    "example_text": "I think I messed up finish the upload",
+    "audio_path": "audios/63-messed-up/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "63-messed-up",
+    "lesson_title": "Messed Up",
+    "example_index": 4,
+    "example_text": "I think I messed up charge the laptop",
+    "audio_path": "audios/63-messed-up/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "63-messed-up",
+    "lesson_title": "Messed Up",
+    "example_index": 5,
+    "example_text": "I think I messed up fix the microphone",
+    "audio_path": "audios/63-messed-up/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "64-figure-out-why",
+    "lesson_title": "Figure Out Why",
+    "example_index": 1,
+    "example_text": "Can you help me figure out why charge the laptop?",
+    "audio_path": "audios/64-figure-out-why/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "64-figure-out-why",
+    "lesson_title": "Figure Out Why",
+    "example_index": 2,
+    "example_text": "Can you help me figure out why fix the microphone?",
+    "audio_path": "audios/64-figure-out-why/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "64-figure-out-why",
+    "lesson_title": "Figure Out Why",
+    "example_index": 3,
+    "example_text": "Can you help me figure out why load the page?",
+    "audio_path": "audios/64-figure-out-why/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "64-figure-out-why",
+    "lesson_title": "Figure Out Why",
+    "example_index": 4,
+    "example_text": "Can you help me figure out why open the attachment?",
+    "audio_path": "audios/64-figure-out-why/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "64-figure-out-why",
+    "lesson_title": "Figure Out Why",
+    "example_index": 5,
+    "example_text": "Can you help me figure out why keep the meeting moving?",
+    "audio_path": "audios/64-figure-out-why/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "65-trying-to-fix",
+    "lesson_title": "Trying To Fix",
+    "example_index": 1,
+    "example_text": "I'm trying to fix open the attachment",
+    "audio_path": "audios/65-trying-to-fix/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "65-trying-to-fix",
+    "lesson_title": "Trying To Fix",
+    "example_index": 2,
+    "example_text": "I'm trying to fix keep the meeting moving",
+    "audio_path": "audios/65-trying-to-fix/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "65-trying-to-fix",
+    "lesson_title": "Trying To Fix",
+    "example_index": 3,
+    "example_text": "I'm trying to fix use the old cable",
+    "audio_path": "audios/65-trying-to-fix/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "65-trying-to-fix",
+    "lesson_title": "Trying To Fix",
+    "example_index": 4,
+    "example_text": "I'm trying to fix find a backup plan",
+    "audio_path": "audios/65-trying-to-fix/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "65-trying-to-fix",
+    "lesson_title": "Trying To Fix",
+    "example_index": 5,
+    "example_text": "I'm trying to fix the wifi to connect",
+    "audio_path": "audios/65-trying-to-fix/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "66-need-to-restart",
+    "lesson_title": "Need To Restart",
+    "example_index": 1,
+    "example_text": "I need to restart find a backup plan",
+    "audio_path": "audios/66-need-to-restart/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "66-need-to-restart",
+    "lesson_title": "Need To Restart",
+    "example_index": 2,
+    "example_text": "I need to restart the wifi to connect",
+    "audio_path": "audios/66-need-to-restart/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "66-need-to-restart",
+    "lesson_title": "Need To Restart",
+    "example_index": 3,
+    "example_text": "I need to restart miss the deadline",
+    "audio_path": "audios/66-need-to-restart/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "66-need-to-restart",
+    "lesson_title": "Need To Restart",
+    "example_index": 4,
+    "example_text": "I need to restart lose the progress",
+    "audio_path": "audios/66-need-to-restart/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "66-need-to-restart",
+    "lesson_title": "Need To Restart",
+    "example_index": 5,
+    "example_text": "I need to restart get this sorted out",
+    "audio_path": "audios/66-need-to-restart/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "67-keep-getting",
+    "lesson_title": "Keep Getting",
+    "example_index": 1,
+    "example_text": "I keep getting an error when I lose the progress",
+    "audio_path": "audios/67-keep-getting/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "67-keep-getting",
+    "lesson_title": "Keep Getting",
+    "example_index": 2,
+    "example_text": "I keep getting an error when I get this sorted out",
+    "audio_path": "audios/67-keep-getting/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "67-keep-getting",
+    "lesson_title": "Keep Getting",
+    "example_index": 3,
+    "example_text": "I keep getting an error when I open the app",
+    "audio_path": "audios/67-keep-getting/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "67-keep-getting",
+    "lesson_title": "Keep Getting",
+    "example_index": 4,
+    "example_text": "I keep getting an error when I log in",
+    "audio_path": "audios/67-keep-getting/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "67-keep-getting",
+    "lesson_title": "Keep Getting",
+    "example_index": 5,
+    "example_text": "I keep getting an error when I send the file",
+    "audio_path": "audios/67-keep-getting/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "68-not-sure-how",
+    "lesson_title": "Not Sure How",
+    "example_index": 1,
+    "example_text": "I'm not sure how to log in",
+    "audio_path": "audios/68-not-sure-how/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "68-not-sure-how",
+    "lesson_title": "Not Sure How",
+    "example_index": 2,
+    "example_text": "I'm not sure how to send the file",
+    "audio_path": "audios/68-not-sure-how/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "68-not-sure-how",
+    "lesson_title": "Not Sure How",
+    "example_index": 3,
+    "example_text": "I'm not sure how to connect the printer",
+    "audio_path": "audios/68-not-sure-how/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "68-not-sure-how",
+    "lesson_title": "Not Sure How",
+    "example_index": 4,
+    "example_text": "I'm not sure how to save the changes",
+    "audio_path": "audios/68-not-sure-how/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "68-not-sure-how",
+    "lesson_title": "Not Sure How",
+    "example_index": 5,
+    "example_text": "I'm not sure how to clear the cache",
+    "audio_path": "audios/68-not-sure-how/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "69-working-around",
+    "lesson_title": "Working Around",
+    "example_index": 1,
+    "example_text": "I'm working around save the changes",
+    "audio_path": "audios/69-working-around/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "69-working-around",
+    "lesson_title": "Working Around",
+    "example_index": 2,
+    "example_text": "I'm working around clear the cache",
+    "audio_path": "audios/69-working-around/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "69-working-around",
+    "lesson_title": "Working Around",
+    "example_index": 3,
+    "example_text": "I'm working around get the video to play",
+    "audio_path": "audios/69-working-around/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "69-working-around",
+    "lesson_title": "Working Around",
+    "example_index": 4,
+    "example_text": "I'm working around reset the password",
+    "audio_path": "audios/69-working-around/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "69-working-around",
+    "lesson_title": "Working Around",
+    "example_index": 5,
+    "example_text": "I'm working around finish the upload",
+    "audio_path": "audios/69-working-around/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "70-need-to-replace",
+    "lesson_title": "Need To Replace",
+    "example_index": 1,
+    "example_text": "I need to replace reset the password",
+    "audio_path": "audios/70-need-to-replace/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "70-need-to-replace",
+    "lesson_title": "Need To Replace",
+    "example_index": 2,
+    "example_text": "I need to replace finish the upload",
+    "audio_path": "audios/70-need-to-replace/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "70-need-to-replace",
+    "lesson_title": "Need To Replace",
+    "example_index": 3,
+    "example_text": "I need to replace charge the laptop",
+    "audio_path": "audios/70-need-to-replace/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "70-need-to-replace",
+    "lesson_title": "Need To Replace",
+    "example_index": 4,
+    "example_text": "I need to replace fix the microphone",
+    "audio_path": "audios/70-need-to-replace/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "70-need-to-replace",
+    "lesson_title": "Need To Replace",
+    "example_index": 5,
+    "example_text": "I need to replace load the page",
+    "audio_path": "audios/70-need-to-replace/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "71-have-to-deal",
+    "lesson_title": "Have To Deal",
+    "example_index": 1,
+    "example_text": "I have to deal with fix the microphone",
+    "audio_path": "audios/71-have-to-deal/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "71-have-to-deal",
+    "lesson_title": "Have To Deal",
+    "example_index": 2,
+    "example_text": "I have to deal with load the page",
+    "audio_path": "audios/71-have-to-deal/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "71-have-to-deal",
+    "lesson_title": "Have To Deal",
+    "example_index": 3,
+    "example_text": "I have to deal with open the attachment",
+    "audio_path": "audios/71-have-to-deal/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "71-have-to-deal",
+    "lesson_title": "Have To Deal",
+    "example_index": 4,
+    "example_text": "I have to deal with keep the meeting moving",
+    "audio_path": "audios/71-have-to-deal/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "71-have-to-deal",
+    "lesson_title": "Have To Deal",
+    "example_index": 5,
+    "example_text": "I have to deal with use the old cable",
+    "audio_path": "audios/71-have-to-deal/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "72-check-whether",
+    "lesson_title": "Check Whether",
+    "example_index": 1,
+    "example_text": "Let me check whether keep the meeting moving",
+    "audio_path": "audios/72-check-whether/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "72-check-whether",
+    "lesson_title": "Check Whether",
+    "example_index": 2,
+    "example_text": "Let me check whether use the old cable",
+    "audio_path": "audios/72-check-whether/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "72-check-whether",
+    "lesson_title": "Check Whether",
+    "example_index": 3,
+    "example_text": "Let me check whether find a backup plan",
+    "audio_path": "audios/72-check-whether/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "72-check-whether",
+    "lesson_title": "Check Whether",
+    "example_index": 4,
+    "example_text": "Let me check whether the wifi to connect",
+    "audio_path": "audios/72-check-whether/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "72-check-whether",
+    "lesson_title": "Check Whether",
+    "example_index": 5,
+    "example_text": "Let me check whether miss the deadline",
+    "audio_path": "audios/72-check-whether/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "73-looking-into",
+    "lesson_title": "Looking Into",
+    "example_index": 1,
+    "example_text": "I'm looking into the wifi to connect",
+    "audio_path": "audios/73-looking-into/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "73-looking-into",
+    "lesson_title": "Looking Into",
+    "example_index": 2,
+    "example_text": "I'm looking into miss the deadline",
+    "audio_path": "audios/73-looking-into/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "73-looking-into",
+    "lesson_title": "Looking Into",
+    "example_index": 3,
+    "example_text": "I'm looking into lose the progress",
+    "audio_path": "audios/73-looking-into/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "73-looking-into",
+    "lesson_title": "Looking Into",
+    "example_index": 4,
+    "example_text": "I'm looking into get this sorted out",
+    "audio_path": "audios/73-looking-into/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "73-looking-into",
+    "lesson_title": "Looking Into",
+    "example_index": 5,
+    "example_text": "I'm looking into open the app",
+    "audio_path": "audios/73-looking-into/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "74-trying-not-to",
+    "lesson_title": "Trying Not To",
+    "example_index": 1,
+    "example_text": "I'm trying not to get this sorted out",
+    "audio_path": "audios/74-trying-not-to/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "74-trying-not-to",
+    "lesson_title": "Trying Not To",
+    "example_index": 2,
+    "example_text": "I'm trying not to open the app",
+    "audio_path": "audios/74-trying-not-to/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "74-trying-not-to",
+    "lesson_title": "Trying Not To",
+    "example_index": 3,
+    "example_text": "I'm trying not to log in",
+    "audio_path": "audios/74-trying-not-to/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "74-trying-not-to",
+    "lesson_title": "Trying Not To",
+    "example_index": 4,
+    "example_text": "I'm trying not to send the file",
+    "audio_path": "audios/74-trying-not-to/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "74-trying-not-to",
+    "lesson_title": "Trying Not To",
+    "example_index": 5,
+    "example_text": "I'm trying not to connect the printer",
+    "audio_path": "audios/74-trying-not-to/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "75-better-way",
+    "lesson_title": "Better Way",
+    "example_index": 1,
+    "example_text": "I need a better way to send the file",
+    "audio_path": "audios/75-better-way/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "75-better-way",
+    "lesson_title": "Better Way",
+    "example_index": 2,
+    "example_text": "I need a better way to connect the printer",
+    "audio_path": "audios/75-better-way/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "75-better-way",
+    "lesson_title": "Better Way",
+    "example_index": 3,
+    "example_text": "I need a better way to save the changes",
+    "audio_path": "audios/75-better-way/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "75-better-way",
+    "lesson_title": "Better Way",
+    "example_index": 4,
+    "example_text": "I need a better way to clear the cache",
+    "audio_path": "audios/75-better-way/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "75-better-way",
+    "lesson_title": "Better Way",
+    "example_index": 5,
+    "example_text": "I need a better way to get the video to play",
+    "audio_path": "audios/75-better-way/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "76-running-low",
+    "lesson_title": "Running Low",
+    "example_index": 1,
+    "example_text": "I'm running low on clear the cache",
+    "audio_path": "audios/76-running-low/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "76-running-low",
+    "lesson_title": "Running Low",
+    "example_index": 2,
+    "example_text": "I'm running low on get the video to play",
+    "audio_path": "audios/76-running-low/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "76-running-low",
+    "lesson_title": "Running Low",
+    "example_index": 3,
+    "example_text": "I'm running low on reset the password",
+    "audio_path": "audios/76-running-low/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "76-running-low",
+    "lesson_title": "Running Low",
+    "example_index": 4,
+    "example_text": "I'm running low on finish the upload",
+    "audio_path": "audios/76-running-low/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "76-running-low",
+    "lesson_title": "Running Low",
+    "example_index": 5,
+    "example_text": "I'm running low on charge the laptop",
+    "audio_path": "audios/76-running-low/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "77-can-t-get",
+    "lesson_title": "Can’t Get",
+    "example_index": 1,
+    "example_text": "I can't get finish the upload to work.",
+    "audio_path": "audios/77-can-t-get/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "77-can-t-get",
+    "lesson_title": "Can’t Get",
+    "example_index": 2,
+    "example_text": "I can't get charge the laptop to work.",
+    "audio_path": "audios/77-can-t-get/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "77-can-t-get",
+    "lesson_title": "Can’t Get",
+    "example_index": 3,
+    "example_text": "I can't get fix the microphone to work.",
+    "audio_path": "audios/77-can-t-get/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "77-can-t-get",
+    "lesson_title": "Can’t Get",
+    "example_index": 4,
+    "example_text": "I can't get load the page to work.",
+    "audio_path": "audios/77-can-t-get/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "77-can-t-get",
+    "lesson_title": "Can’t Get",
+    "example_index": 5,
+    "example_text": "I can't get open the attachment to work.",
+    "audio_path": "audios/77-can-t-get/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "78-avoiding",
+    "lesson_title": "Avoiding",
+    "example_index": 1,
+    "example_text": "I'm trying to avoid load the page",
+    "audio_path": "audios/78-avoiding/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "78-avoiding",
+    "lesson_title": "Avoiding",
+    "example_index": 2,
+    "example_text": "I'm trying to avoid open the attachment",
+    "audio_path": "audios/78-avoiding/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "78-avoiding",
+    "lesson_title": "Avoiding",
+    "example_index": 3,
+    "example_text": "I'm trying to avoid keep the meeting moving",
+    "audio_path": "audios/78-avoiding/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "78-avoiding",
+    "lesson_title": "Avoiding",
+    "example_index": 4,
+    "example_text": "I'm trying to avoid use the old cable",
+    "audio_path": "audios/78-avoiding/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "78-avoiding",
+    "lesson_title": "Avoiding",
+    "example_index": 5,
+    "example_text": "I'm trying to avoid find a backup plan",
+    "audio_path": "audios/78-avoiding/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "79-just-want-to-make-sure",
+    "lesson_title": "Just Want To Make Sure",
+    "example_index": 1,
+    "example_text": "I just want to make sure use the old cable",
+    "audio_path": "audios/79-just-want-to-make-sure/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "79-just-want-to-make-sure",
+    "lesson_title": "Just Want To Make Sure",
+    "example_index": 2,
+    "example_text": "I just want to make sure find a backup plan",
+    "audio_path": "audios/79-just-want-to-make-sure/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "79-just-want-to-make-sure",
+    "lesson_title": "Just Want To Make Sure",
+    "example_index": 3,
+    "example_text": "I just want to make sure the wifi to connect",
+    "audio_path": "audios/79-just-want-to-make-sure/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "79-just-want-to-make-sure",
+    "lesson_title": "Just Want To Make Sure",
+    "example_index": 4,
+    "example_text": "I just want to make sure miss the deadline",
+    "audio_path": "audios/79-just-want-to-make-sure/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "79-just-want-to-make-sure",
+    "lesson_title": "Just Want To Make Sure",
+    "example_index": 5,
+    "example_text": "I just want to make sure lose the progress",
+    "audio_path": "audios/79-just-want-to-make-sure/05.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "80-see-if-we-can",
+    "lesson_title": "See If We Can",
+    "example_index": 1,
+    "example_text": "Let's see if we can miss the deadline",
+    "audio_path": "audios/80-see-if-we-can/01.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "80-see-if-we-can",
+    "lesson_title": "See If We Can",
+    "example_index": 2,
+    "example_text": "Let's see if we can lose the progress",
+    "audio_path": "audios/80-see-if-we-can/02.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "80-see-if-we-can",
+    "lesson_title": "See If We Can",
+    "example_index": 3,
+    "example_text": "Let's see if we can get this sorted out",
+    "audio_path": "audios/80-see-if-we-can/03.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "80-see-if-we-can",
+    "lesson_title": "See If We Can",
+    "example_index": 4,
+    "example_text": "Let's see if we can open the app",
+    "audio_path": "audios/80-see-if-we-can/04.wav"
+  },
+  {
+    "scene_id": "problems-solutions",
+    "lesson_slug": "80-see-if-we-can",
+    "lesson_title": "See If We Can",
+    "example_index": 5,
+    "example_text": "Let's see if we can log in",
+    "audio_path": "audios/80-see-if-we-can/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "81-feel-like",
+    "lesson_title": "Feel Like",
+    "example_index": 1,
+    "example_text": "I feel like staying home tonight",
+    "audio_path": "audios/81-feel-like/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "81-feel-like",
+    "lesson_title": "Feel Like",
+    "example_index": 2,
+    "example_text": "I feel like the new restaurant",
+    "audio_path": "audios/81-feel-like/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "81-feel-like",
+    "lesson_title": "Feel Like",
+    "example_index": 3,
+    "example_text": "I feel like working from home",
+    "audio_path": "audios/81-feel-like/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "81-feel-like",
+    "lesson_title": "Feel Like",
+    "example_index": 4,
+    "example_text": "I feel like people being late",
+    "audio_path": "audios/81-feel-like/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "81-feel-like",
+    "lesson_title": "Feel Like",
+    "example_index": 5,
+    "example_text": "I feel like taking a break",
+    "audio_path": "audios/81-feel-like/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "82-kind-of-into",
+    "lesson_title": "Kind Of Into",
+    "example_index": 1,
+    "example_text": "I'm kind of into people being late",
+    "audio_path": "audios/82-kind-of-into/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "82-kind-of-into",
+    "lesson_title": "Kind Of Into",
+    "example_index": 2,
+    "example_text": "I'm kind of into taking a break",
+    "audio_path": "audios/82-kind-of-into/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "82-kind-of-into",
+    "lesson_title": "Kind Of Into",
+    "example_index": 3,
+    "example_text": "I'm kind of into trying the spicy noodles",
+    "audio_path": "audios/82-kind-of-into/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "82-kind-of-into",
+    "lesson_title": "Kind Of Into",
+    "example_index": 4,
+    "example_text": "I'm kind of into having more time",
+    "audio_path": "audios/82-kind-of-into/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "82-kind-of-into",
+    "lesson_title": "Kind Of Into",
+    "example_index": 5,
+    "example_text": "I'm kind of into moving to a new place",
+    "audio_path": "audios/82-kind-of-into/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "83-not-a-fan",
+    "lesson_title": "Not A Fan",
+    "example_index": 1,
+    "example_text": "I'm not a fan of having more time",
+    "audio_path": "audios/83-not-a-fan/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "83-not-a-fan",
+    "lesson_title": "Not A Fan",
+    "example_index": 2,
+    "example_text": "I'm not a fan of moving to a new place",
+    "audio_path": "audios/83-not-a-fan/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "83-not-a-fan",
+    "lesson_title": "Not A Fan",
+    "example_index": 3,
+    "example_text": "I'm not a fan of keeping things simple",
+    "audio_path": "audios/83-not-a-fan/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "83-not-a-fan",
+    "lesson_title": "Not A Fan",
+    "example_index": 4,
+    "example_text": "I'm not a fan of a crowded room",
+    "audio_path": "audios/83-not-a-fan/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "83-not-a-fan",
+    "lesson_title": "Not A Fan",
+    "example_index": 5,
+    "example_text": "I'm not a fan of the new layout",
+    "audio_path": "audios/83-not-a-fan/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "84-rather-than",
+    "lesson_title": "Rather Than",
+    "example_index": 1,
+    "example_text": "I'd rather a crowded room than ...",
+    "audio_path": "audios/84-rather-than/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "84-rather-than",
+    "lesson_title": "Rather Than",
+    "example_index": 2,
+    "example_text": "I'd rather the new layout than ...",
+    "audio_path": "audios/84-rather-than/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "84-rather-than",
+    "lesson_title": "Rather Than",
+    "example_index": 3,
+    "example_text": "I'd rather getting up early than ...",
+    "audio_path": "audios/84-rather-than/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "84-rather-than",
+    "lesson_title": "Rather Than",
+    "example_index": 4,
+    "example_text": "I'd rather sharing honest feedback than ...",
+    "audio_path": "audios/84-rather-than/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "84-rather-than",
+    "lesson_title": "Rather Than",
+    "example_index": 5,
+    "example_text": "I'd rather waiting too long than ...",
+    "audio_path": "audios/84-rather-than/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "85-really-into",
+    "lesson_title": "Really Into",
+    "example_index": 1,
+    "example_text": "I'm really into sharing honest feedback",
+    "audio_path": "audios/85-really-into/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "85-really-into",
+    "lesson_title": "Really Into",
+    "example_index": 2,
+    "example_text": "I'm really into waiting too long",
+    "audio_path": "audios/85-really-into/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "85-really-into",
+    "lesson_title": "Really Into",
+    "example_index": 3,
+    "example_text": "I'm really into the weather today",
+    "audio_path": "audios/85-really-into/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "85-really-into",
+    "lesson_title": "Really Into",
+    "example_index": 4,
+    "example_text": "I'm really into speaking up in meetings",
+    "audio_path": "audios/85-really-into/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "85-really-into",
+    "lesson_title": "Really Into",
+    "example_index": 5,
+    "example_text": "I'm really into spending money on that",
+    "audio_path": "audios/85-really-into/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "86-tired-of",
+    "lesson_title": "Tired Of",
+    "example_index": 1,
+    "example_text": "I'm honestly tired of speaking up in meetings",
+    "audio_path": "audios/86-tired-of/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "86-tired-of",
+    "lesson_title": "Tired Of",
+    "example_index": 2,
+    "example_text": "I'm honestly tired of spending money on that",
+    "audio_path": "audios/86-tired-of/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "86-tired-of",
+    "lesson_title": "Tired Of",
+    "example_index": 3,
+    "example_text": "I'm honestly tired of this kind of music",
+    "audio_path": "audios/86-tired-of/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "86-tired-of",
+    "lesson_title": "Tired Of",
+    "example_index": 4,
+    "example_text": "I'm honestly tired of trying something new",
+    "audio_path": "audios/86-tired-of/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "86-tired-of",
+    "lesson_title": "Tired Of",
+    "example_index": 5,
+    "example_text": "I'm honestly tired of the way this feels",
+    "audio_path": "audios/86-tired-of/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "87-pretty-sure",
+    "lesson_title": "Pretty Sure",
+    "example_index": 1,
+    "example_text": "I'm pretty sure trying something new is going to work.",
+    "audio_path": "audios/87-pretty-sure/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "87-pretty-sure",
+    "lesson_title": "Pretty Sure",
+    "example_index": 2,
+    "example_text": "I'm pretty sure the way this feels is going to work.",
+    "audio_path": "audios/87-pretty-sure/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "87-pretty-sure",
+    "lesson_title": "Pretty Sure",
+    "example_index": 3,
+    "example_text": "I'm pretty sure staying home tonight is going to work.",
+    "audio_path": "audios/87-pretty-sure/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "87-pretty-sure",
+    "lesson_title": "Pretty Sure",
+    "example_index": 4,
+    "example_text": "I'm pretty sure the new restaurant is going to work.",
+    "audio_path": "audios/87-pretty-sure/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "87-pretty-sure",
+    "lesson_title": "Pretty Sure",
+    "example_index": 5,
+    "example_text": "I'm pretty sure working from home is going to work.",
+    "audio_path": "audios/87-pretty-sure/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "88-don-t-mind",
+    "lesson_title": "Don’t Mind",
+    "example_index": 1,
+    "example_text": "I don't mind the new restaurant",
+    "audio_path": "audios/88-don-t-mind/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "88-don-t-mind",
+    "lesson_title": "Don’t Mind",
+    "example_index": 2,
+    "example_text": "I don't mind working from home",
+    "audio_path": "audios/88-don-t-mind/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "88-don-t-mind",
+    "lesson_title": "Don’t Mind",
+    "example_index": 3,
+    "example_text": "I don't mind people being late",
+    "audio_path": "audios/88-don-t-mind/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "88-don-t-mind",
+    "lesson_title": "Don’t Mind",
+    "example_index": 4,
+    "example_text": "I don't mind taking a break",
+    "audio_path": "audios/88-don-t-mind/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "88-don-t-mind",
+    "lesson_title": "Don’t Mind",
+    "example_index": 5,
+    "example_text": "I don't mind trying the spicy noodles",
+    "audio_path": "audios/88-don-t-mind/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "89-worth-it",
+    "lesson_title": "Worth It",
+    "example_index": 1,
+    "example_text": "I think it's worth taking a break",
+    "audio_path": "audios/89-worth-it/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "89-worth-it",
+    "lesson_title": "Worth It",
+    "example_index": 2,
+    "example_text": "I think it's worth trying the spicy noodles",
+    "audio_path": "audios/89-worth-it/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "89-worth-it",
+    "lesson_title": "Worth It",
+    "example_index": 3,
+    "example_text": "I think it's worth having more time",
+    "audio_path": "audios/89-worth-it/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "89-worth-it",
+    "lesson_title": "Worth It",
+    "example_index": 4,
+    "example_text": "I think it's worth moving to a new place",
+    "audio_path": "audios/89-worth-it/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "89-worth-it",
+    "lesson_title": "Worth It",
+    "example_index": 5,
+    "example_text": "I think it's worth keeping things simple",
+    "audio_path": "audios/89-worth-it/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "90-excited-about",
+    "lesson_title": "Excited About",
+    "example_index": 1,
+    "example_text": "I'm excited about moving to a new place",
+    "audio_path": "audios/90-excited-about/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "90-excited-about",
+    "lesson_title": "Excited About",
+    "example_index": 2,
+    "example_text": "I'm excited about keeping things simple",
+    "audio_path": "audios/90-excited-about/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "90-excited-about",
+    "lesson_title": "Excited About",
+    "example_index": 3,
+    "example_text": "I'm excited about a crowded room",
+    "audio_path": "audios/90-excited-about/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "90-excited-about",
+    "lesson_title": "Excited About",
+    "example_index": 4,
+    "example_text": "I'm excited about the new layout",
+    "audio_path": "audios/90-excited-about/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "90-excited-about",
+    "lesson_title": "Excited About",
+    "example_index": 5,
+    "example_text": "I'm excited about getting up early",
+    "audio_path": "audios/90-excited-about/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "91-worried-about",
+    "lesson_title": "Worried About",
+    "example_index": 1,
+    "example_text": "I'm worried about the new layout",
+    "audio_path": "audios/91-worried-about/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "91-worried-about",
+    "lesson_title": "Worried About",
+    "example_index": 2,
+    "example_text": "I'm worried about getting up early",
+    "audio_path": "audios/91-worried-about/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "91-worried-about",
+    "lesson_title": "Worried About",
+    "example_index": 3,
+    "example_text": "I'm worried about sharing honest feedback",
+    "audio_path": "audios/91-worried-about/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "91-worried-about",
+    "lesson_title": "Worried About",
+    "example_index": 4,
+    "example_text": "I'm worried about waiting too long",
+    "audio_path": "audios/91-worried-about/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "91-worried-about",
+    "lesson_title": "Worried About",
+    "example_index": 5,
+    "example_text": "I'm worried about the weather today",
+    "audio_path": "audios/91-worried-about/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "92-agree-with",
+    "lesson_title": "Agree With",
+    "example_index": 1,
+    "example_text": "I'm not sure I agree with waiting too long",
+    "audio_path": "audios/92-agree-with/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "92-agree-with",
+    "lesson_title": "Agree With",
+    "example_index": 2,
+    "example_text": "I'm not sure I agree with the weather today",
+    "audio_path": "audios/92-agree-with/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "92-agree-with",
+    "lesson_title": "Agree With",
+    "example_index": 3,
+    "example_text": "I'm not sure I agree with speaking up in meetings",
+    "audio_path": "audios/92-agree-with/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "92-agree-with",
+    "lesson_title": "Agree With",
+    "example_index": 4,
+    "example_text": "I'm not sure I agree with spending money on that",
+    "audio_path": "audios/92-agree-with/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "92-agree-with",
+    "lesson_title": "Agree With",
+    "example_index": 5,
+    "example_text": "I'm not sure I agree with this kind of music",
+    "audio_path": "audios/92-agree-with/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "93-can-see-why",
+    "lesson_title": "Can See Why",
+    "example_index": 1,
+    "example_text": "I can see why people like spending money on that",
+    "audio_path": "audios/93-can-see-why/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "93-can-see-why",
+    "lesson_title": "Can See Why",
+    "example_index": 2,
+    "example_text": "I can see why people like this kind of music",
+    "audio_path": "audios/93-can-see-why/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "93-can-see-why",
+    "lesson_title": "Can See Why",
+    "example_index": 3,
+    "example_text": "I can see why people like trying something new",
+    "audio_path": "audios/93-can-see-why/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "93-can-see-why",
+    "lesson_title": "Can See Why",
+    "example_index": 4,
+    "example_text": "I can see why people like the way this feels",
+    "audio_path": "audios/93-can-see-why/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "93-can-see-why",
+    "lesson_title": "Can See Why",
+    "example_index": 5,
+    "example_text": "I can see why people like staying home tonight",
+    "audio_path": "audios/93-can-see-why/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "94-always-liked",
+    "lesson_title": "Always Liked",
+    "example_index": 1,
+    "example_text": "I've always liked the way this feels",
+    "audio_path": "audios/94-always-liked/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "94-always-liked",
+    "lesson_title": "Always Liked",
+    "example_index": 2,
+    "example_text": "I've always liked staying home tonight",
+    "audio_path": "audios/94-always-liked/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "94-always-liked",
+    "lesson_title": "Always Liked",
+    "example_index": 3,
+    "example_text": "I've always liked the new restaurant",
+    "audio_path": "audios/94-always-liked/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "94-always-liked",
+    "lesson_title": "Always Liked",
+    "example_index": 4,
+    "example_text": "I've always liked working from home",
+    "audio_path": "audios/94-always-liked/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "94-always-liked",
+    "lesson_title": "Always Liked",
+    "example_index": 5,
+    "example_text": "I've always liked people being late",
+    "audio_path": "audios/94-always-liked/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "95-getting-used-to",
+    "lesson_title": "Getting Used To",
+    "example_index": 1,
+    "example_text": "I'm getting used to working from home",
+    "audio_path": "audios/95-getting-used-to/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "95-getting-used-to",
+    "lesson_title": "Getting Used To",
+    "example_index": 2,
+    "example_text": "I'm getting used to people being late",
+    "audio_path": "audios/95-getting-used-to/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "95-getting-used-to",
+    "lesson_title": "Getting Used To",
+    "example_index": 3,
+    "example_text": "I'm getting used to taking a break",
+    "audio_path": "audios/95-getting-used-to/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "95-getting-used-to",
+    "lesson_title": "Getting Used To",
+    "example_index": 4,
+    "example_text": "I'm getting used to trying the spicy noodles",
+    "audio_path": "audios/95-getting-used-to/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "95-getting-used-to",
+    "lesson_title": "Getting Used To",
+    "example_index": 5,
+    "example_text": "I'm getting used to having more time",
+    "audio_path": "audios/95-getting-used-to/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "96-impressed-by",
+    "lesson_title": "Impressed By",
+    "example_index": 1,
+    "example_text": "I'm impressed by trying the spicy noodles",
+    "audio_path": "audios/96-impressed-by/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "96-impressed-by",
+    "lesson_title": "Impressed By",
+    "example_index": 2,
+    "example_text": "I'm impressed by having more time",
+    "audio_path": "audios/96-impressed-by/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "96-impressed-by",
+    "lesson_title": "Impressed By",
+    "example_index": 3,
+    "example_text": "I'm impressed by moving to a new place",
+    "audio_path": "audios/96-impressed-by/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "96-impressed-by",
+    "lesson_title": "Impressed By",
+    "example_index": 4,
+    "example_text": "I'm impressed by keeping things simple",
+    "audio_path": "audios/96-impressed-by/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "96-impressed-by",
+    "lesson_title": "Impressed By",
+    "example_index": 5,
+    "example_text": "I'm impressed by a crowded room",
+    "audio_path": "audios/96-impressed-by/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "97-not-convinced",
+    "lesson_title": "Not Convinced",
+    "example_index": 1,
+    "example_text": "I'm not convinced that keeping things simple",
+    "audio_path": "audios/97-not-convinced/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "97-not-convinced",
+    "lesson_title": "Not Convinced",
+    "example_index": 2,
+    "example_text": "I'm not convinced that a crowded room",
+    "audio_path": "audios/97-not-convinced/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "97-not-convinced",
+    "lesson_title": "Not Convinced",
+    "example_index": 3,
+    "example_text": "I'm not convinced that the new layout",
+    "audio_path": "audios/97-not-convinced/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "97-not-convinced",
+    "lesson_title": "Not Convinced",
+    "example_index": 4,
+    "example_text": "I'm not convinced that getting up early",
+    "audio_path": "audios/97-not-convinced/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "97-not-convinced",
+    "lesson_title": "Not Convinced",
+    "example_index": 5,
+    "example_text": "I'm not convinced that sharing honest feedback",
+    "audio_path": "audios/97-not-convinced/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "98-i-d-say",
+    "lesson_title": "I’d Say",
+    "example_index": 1,
+    "example_text": "I'd say getting up early",
+    "audio_path": "audios/98-i-d-say/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "98-i-d-say",
+    "lesson_title": "I’d Say",
+    "example_index": 2,
+    "example_text": "I'd say sharing honest feedback",
+    "audio_path": "audios/98-i-d-say/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "98-i-d-say",
+    "lesson_title": "I’d Say",
+    "example_index": 3,
+    "example_text": "I'd say waiting too long",
+    "audio_path": "audios/98-i-d-say/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "98-i-d-say",
+    "lesson_title": "I’d Say",
+    "example_index": 4,
+    "example_text": "I'd say the weather today",
+    "audio_path": "audios/98-i-d-say/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "98-i-d-say",
+    "lesson_title": "I’d Say",
+    "example_index": 5,
+    "example_text": "I'd say speaking up in meetings",
+    "audio_path": "audios/98-i-d-say/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "99-leaning-toward",
+    "lesson_title": "Leaning Toward",
+    "example_index": 1,
+    "example_text": "I'm leaning toward the weather today",
+    "audio_path": "audios/99-leaning-toward/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "99-leaning-toward",
+    "lesson_title": "Leaning Toward",
+    "example_index": 2,
+    "example_text": "I'm leaning toward speaking up in meetings",
+    "audio_path": "audios/99-leaning-toward/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "99-leaning-toward",
+    "lesson_title": "Leaning Toward",
+    "example_index": 3,
+    "example_text": "I'm leaning toward spending money on that",
+    "audio_path": "audios/99-leaning-toward/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "99-leaning-toward",
+    "lesson_title": "Leaning Toward",
+    "example_index": 4,
+    "example_text": "I'm leaning toward this kind of music",
+    "audio_path": "audios/99-leaning-toward/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "99-leaning-toward",
+    "lesson_title": "Leaning Toward",
+    "example_index": 5,
+    "example_text": "I'm leaning toward trying something new",
+    "audio_path": "audios/99-leaning-toward/05.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "100-can-t-get-over",
+    "lesson_title": "Can’t Get Over",
+    "example_index": 1,
+    "example_text": "I just can't get over this kind of music",
+    "audio_path": "audios/100-can-t-get-over/01.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "100-can-t-get-over",
+    "lesson_title": "Can’t Get Over",
+    "example_index": 2,
+    "example_text": "I just can't get over trying something new",
+    "audio_path": "audios/100-can-t-get-over/02.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "100-can-t-get-over",
+    "lesson_title": "Can’t Get Over",
+    "example_index": 3,
+    "example_text": "I just can't get over the way this feels",
+    "audio_path": "audios/100-can-t-get-over/03.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "100-can-t-get-over",
+    "lesson_title": "Can’t Get Over",
+    "example_index": 4,
+    "example_text": "I just can't get over staying home tonight",
+    "audio_path": "audios/100-can-t-get-over/04.wav"
+  },
+  {
+    "scene_id": "feelings-opinions",
+    "lesson_slug": "100-can-t-get-over",
+    "lesson_title": "Can’t Get Over",
+    "example_index": 5,
+    "example_text": "I just can't get over the new restaurant",
+    "audio_path": "audios/100-can-t-get-over/05.wav"
+  }
+]
