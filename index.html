@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Spoken English Patterns</title>
+  <link rel="stylesheet" href="scripts/styles.css" />
+</head>
+<body>
+  <div class="gate-overlay" id="gateOverlay" aria-modal="true" role="dialog" aria-labelledby="gateTitle">
+    <form class="gate-card" id="inviteForm" autocomplete="off">
+      <div class="gate-badge">Private Access</div>
+      <h1 id="gateTitle">Enter Invite Code</h1>
+      <p>请输入邀请码后继续访问英语网站内容。</p>
+      <label class="gate-label" for="inviteCode">邀请码</label>
+      <input id="inviteCode" name="inviteCode" type="text" inputmode="text" autocapitalize="characters" autocomplete="one-time-code" spellcheck="false" placeholder="EN-XXXX-XXXX" />
+      <button type="submit">Verify</button>
+      <div class="gate-message" id="gateMessage" aria-live="polite"></div>
+    </form>
+  </div>
+
+  <div class="shell" id="appShell" hidden aria-hidden="true">
+    <header class="hero">
+      <h1>Spoken English Patterns</h1>
+      <p>100 natural American sentence patterns across 5 daily speaking scenes.</p>
+    </header>
+    <nav class="scene-bar" id="sceneBar" aria-label="Scene selector"></nav>
+    <main class="layout">
+      <aside class="panel sidebar">
+        <h2>Sentence List</h2>
+        <div class="lesson-list" id="lessonList"></div>
+      </aside>
+      <section class="panel detail" id="detail" aria-live="polite"></section>
+    </main>
+  </div>
+  <script src="scripts/invite-codes.js"></script>
+  <script src="scripts/data.js"></script>
+  <script src="scripts/app.js"></script>
+</body>
+</html>
