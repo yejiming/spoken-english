@@ -96,7 +96,7 @@ function renderLessons() {
     const button = document.createElement("button");
     button.className = `lesson-button ${idx === state.lessonIndex ? "active" : ""}`;
     button.innerHTML = `
-      <span class="num">${String(idx + 1).padStart(2, "0")} · ${escapeHtml(lesson.slug)}</span>
+      <span class="num">${escapeHtml(lesson.slug)}</span>
       <span class="title">${escapeHtml(lesson.title)}</span>
       <span class="pattern">${escapeHtml(lesson.pattern)}</span>
     `;
@@ -117,7 +117,7 @@ function renderLessonDetail() {
         <div class="scene-tag">${escapeHtml(scene.nameEn)} / ${escapeHtml(scene.nameCn)}</div>
         <h3>${escapeHtml(lesson.title)}</h3>
       </div>
-      <div class="scene-tag">#${String(state.lessonIndex + 1).padStart(2, "0")}</div>
+      <div class="scene-tag">#${escapeHtml(getCurrentLesson().slug.split("-")[0])}</div>
     </div>
     <div class="meta-grid">
       <div class="meta-card">
