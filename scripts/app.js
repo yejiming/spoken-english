@@ -210,7 +210,6 @@ function renderLessonDetail() {
           <div class="section-kicker">Practice Lines</div>
           <h4>${escapeHtml(String(lesson.examples.length))} example${lesson.examples.length === 1 ? "" : "s"} with audio</h4>
         </div>
-        <p>Listen, imitate the rhythm, then substitute the highlighted slot to make it your own.</p>
       </div>
       <div class="examples">
         ${lesson.examples.map((example, index) => renderExample(example, index)).join("")}
@@ -251,6 +250,17 @@ function preloadDurations() {
         if (durationEl) durationEl.textContent = `${audioEl.duration.toFixed(1)}s`;
       }
     }, { once: true });
+
+    audioEl.addEventListener("error", () => {
+      const card = audioEl.closest(".audio-wrap");
+      if (!card) return;
+      const durationEl = card.querySelector(".duration");
+      if (durationEl) durationEl.textContent = "Unavailable";
+    }, { once: true });
+
+    // Mobile browsers are less reliable about fetching metadata for dynamically
+    // inserted audio elements unless loading is triggered explicitly.
+    audioEl.load();
   });
 }
 
