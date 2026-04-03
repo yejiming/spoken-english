@@ -11,12 +11,16 @@ const state = {
 const els = {};
 
 function escapeHtml(value) {
-  return value
+  return String(value ?? "")
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#39;");
+}
+
+function formatCount(value) {
+  return new Intl.NumberFormat("en-US").format(value);
 }
 
 function highlightSentence(sentence, slot) {
@@ -32,6 +36,22 @@ function getCurrentScene() {
 
 function getCurrentLesson() {
   return getCurrentScene().lessons[state.lessonIndex];
+}
+
+function getLibraryTotals() {
+  return data.scenes.reduce((totals, scene) => {
+    totals.lessonCount += scene.lessons.length;
+    totals.exampleCount += scene.lessons.reduce((sum, lesson) => sum + lesson.examples.length, 0);
+    return totals;
+  }, {
+    sceneCount: data.scenes.length,
+    lessonCount: 0,
+    exampleCount: 0,
+  });
+}
+
+function shouldJumpToDetail() {
+  return window.matchMedia("(max-width: 1024px)").matches;
 }
 
 function normalizeInviteCode(value) {
@@ -64,8 +84,7 @@ function showGateMessage(message, isSuccess = false) {
   els.gateMessage.classList.toggle("success", isSuccess);
 }
 
-function unlockSite(code) {
-  const normalized = normalizeInviteCode(code);
+function unlockSite() {
   showGateMessage("验证通过，正在进入页面。", true);
   setAccessGranted(true);
   renderAll();
@@ -74,12 +93,33 @@ function unlockSite(code) {
   });
 }
 
+function renderHeroSummary() {
+  const scene = getCurrentScene();
+  const totals = getLibraryTotals();
+  const sceneExampleCount = scene.lessons.reduce((sum, lesson) => sum + lesson.examples.length, 0);
+
+  if (els.statScenes) els.statScenes.textContent = formatCount(totals.sceneCount);
+  if (els.statLessons) els.statLessons.textContent = formatCount(totals.lessonCount);
+  if (els.statExamples) els.statExamples.textContent = formatCount(totals.exampleCount);
+  if (els.heroCurrentScene) {
+    els.heroCurrentScene.textContent = `${scene.nameEn} / ${scene.nameCn}`;
+  }
+  if (els.heroCurrentMeta) {
+    els.heroCurrentMeta.textContent = `${formatCount(scene.lessons.length)} patterns and ${formatCount(sceneExampleCount)} audio lines in this scene.`;
+  }
+}
+
 function renderScenes() {
   els.sceneBar.innerHTML = "";
   data.scenes.forEach((scene, idx) => {
     const button = document.createElement("button");
+    button.type = "button";
     button.className = `scene-pill ${idx === state.sceneIndex ? "active" : ""}`;
-    button.textContent = `${scene.nameEn} / ${scene.nameCn}`;
+    button.setAttribute("aria-label", `${scene.nameEn} / ${scene.nameCn}`);
+    button.innerHTML = `
+      <span class="scene-pill-en">${escapeHtml(scene.nameEn)}</span>
+      <span class="scene-pill-cn">${escapeHtml(scene.nameCn)}</span>
+    `;
     button.addEventListener("click", () => {
       state.sceneIndex = idx;
       state.lessonIndex = 0;
@@ -87,13 +127,31 @@ function renderScenes() {
     });
     els.sceneBar.appendChild(button);
   });
+
+  const activeButton = els.sceneBar.querySelector(".scene-pill.active");
+  if (activeButton) {
+    activeButton.scrollIntoView({ block: "nearest", inline: "center" });
+  }
 }
 
 function renderLessons() {
   const scene = getCurrentScene();
   els.lessonList.innerHTML = "";
+
+  if (els.lessonSelect) {
+    els.lessonSelect.innerHTML = "";
+    scene.lessons.forEach((lesson, idx) => {
+      const option = document.createElement("option");
+      option.value = String(idx);
+      option.textContent = `${lesson.slug} · ${lesson.title}`;
+      els.lessonSelect.appendChild(option);
+    });
+    els.lessonSelect.value = String(state.lessonIndex);
+  }
+
   scene.lessons.forEach((lesson, idx) => {
     const button = document.createElement("button");
+    button.type = "button";
     button.className = `lesson-button ${idx === state.lessonIndex ? "active" : ""}`;
     button.innerHTML = `
       <span class="num">${escapeHtml(lesson.slug)}</span>
@@ -103,55 +161,80 @@ function renderLessons() {
     button.addEventListener("click", () => {
       state.lessonIndex = idx;
       renderAll();
+      if (shouldJumpToDetail()) {
+        els.detail.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
     });
     els.lessonList.appendChild(button);
   });
+
+  const activeButton = els.lessonList.querySelector(".lesson-button.active");
+  if (activeButton) {
+    activeButton.scrollIntoView({ block: "nearest", inline: "nearest" });
+  }
 }
 
 function renderLessonDetail() {
   const scene = getCurrentScene();
   const lesson = getCurrentLesson();
+  const lessonNumber = lesson.slug.split("-")[0];
   els.detail.innerHTML = `
-    <div class="lesson-head">
-      <div>
-        <div class="scene-tag">${escapeHtml(scene.nameEn)} / ${escapeHtml(scene.nameCn)}</div>
-        <h3>${escapeHtml(lesson.title)}</h3>
+    <div class="detail-frame">
+      <div class="lesson-head">
+        <div class="lesson-heading">
+          <div class="scene-tag">${escapeHtml(scene.nameEn)} / ${escapeHtml(scene.nameCn)}</div>
+          <h3>${escapeHtml(lesson.title)}</h3>
+        </div>
+        <div class="lesson-index">
+          <span>Pattern No.</span>
+          <strong>#${escapeHtml(lessonNumber)}</strong>
+        </div>
       </div>
-      <div class="scene-tag">#${escapeHtml(getCurrentLesson().slug.split("-")[0])}</div>
-    </div>
-    <div class="meta-grid">
-      <div class="meta-card">
-        <span class="label">Sentence Pattern</span>
-        <div class="value">${escapeHtml(lesson.pattern)}</div>
+      <div class="meta-grid">
+        <article class="meta-card">
+          <span class="label">Sentence Pattern</span>
+          <div class="value">${escapeHtml(lesson.pattern)}</div>
+        </article>
+        <article class="meta-card">
+          <span class="label">Meaning / 意思</span>
+          <div class="value">${escapeHtml(lesson.meaning)}</div>
+        </article>
+        <article class="meta-card meta-card-wide">
+          <span class="label">Usage Note / 用法</span>
+          <div class="value">${escapeHtml(lesson.note)}</div>
+        </article>
       </div>
-      <div class="meta-card">
-        <span class="label">Meaning / 意思</span>
-        <div class="value">${escapeHtml(lesson.meaning)}</div>
+      <div class="detail-divider" aria-hidden="true"></div>
+      <div class="section-head">
+        <div class="section-copy">
+          <div class="section-kicker">Practice Lines</div>
+          <h4>${escapeHtml(String(lesson.examples.length))} example${lesson.examples.length === 1 ? "" : "s"} with audio</h4>
+        </div>
+        <p>Listen, imitate the rhythm, then substitute the highlighted slot to make it your own.</p>
       </div>
-      <div class="meta-card" style="grid-column: 1 / -1;">
-        <span class="label">Usage Note / 用法</span>
-        <div class="value">${escapeHtml(lesson.note)}</div>
+      <div class="examples">
+        ${lesson.examples.map((example, index) => renderExample(example, index)).join("")}
       </div>
-    </div>
-    <div class="examples">
-      ${lesson.examples.map(renderExample).join("")}
     </div>
   `;
 }
 
-function renderExample(example) {
+function renderExample(example, index) {
   const escaped = highlightSentence(example.english, example.slotEn);
   const duration = state.durations.get(example.audio);
   return `
     <article class="example-card">
-      <div class="example-top">
-        <div class="english">${escaped}</div>
-        <div class="audio-wrap">
-          <audio controls preload="metadata" data-audio="${escapeHtml(example.audio)}" src="${escapeHtml(example.audio)}"></audio>
-          <div class="duration">${duration ? `${duration.toFixed(1)}s` : "..."}</div>
+      <div class="example-number">${String(index + 1).padStart(2, "0")}</div>
+      <div class="example-main">
+        <div class="example-top">
+          <div class="english">${escaped}</div>
+          <div class="audio-wrap">
+            <audio controls preload="metadata" data-audio="${escapeHtml(example.audio)}" src="${escapeHtml(example.audio)}"></audio>
+            <div class="duration">${duration ? `${duration.toFixed(1)}s` : "..."}</div>
+          </div>
         </div>
+        <div class="example-cn">${escapeHtml(example.chinese)}</div>
       </div>
-      <div class="example-cn">${escapeHtml(example.chinese)}</div>
     </article>
   `;
 }
@@ -173,6 +256,7 @@ function preloadDurations() {
 
 function renderAll() {
   if (!state.unlocked) return;
+  renderHeroSummary();
   renderScenes();
   renderLessons();
   renderLessonDetail();
@@ -194,7 +278,13 @@ function init() {
   els.appShell = document.getElementById("appShell");
   els.sceneBar = document.getElementById("sceneBar");
   els.lessonList = document.getElementById("lessonList");
+  els.lessonSelect = document.getElementById("lessonSelect");
   els.detail = document.getElementById("detail");
+  els.heroCurrentScene = document.getElementById("heroCurrentScene");
+  els.heroCurrentMeta = document.getElementById("heroCurrentMeta");
+  els.statScenes = document.getElementById("statScenes");
+  els.statLessons = document.getElementById("statLessons");
+  els.statExamples = document.getElementById("statExamples");
 
   els.gateForm.addEventListener("submit", (event) => {
     event.preventDefault();
@@ -208,7 +298,7 @@ function init() {
       els.inviteInput.select();
       return;
     }
-    unlockSite(code);
+    unlockSite();
   });
 
   els.inviteInput.addEventListener("keydown", (event) => {
@@ -217,6 +307,18 @@ function init() {
       showGateMessage("");
     }
   });
+
+  if (els.lessonSelect) {
+    els.lessonSelect.addEventListener("change", (event) => {
+      const nextIndex = Number(event.target.value);
+      if (Number.isNaN(nextIndex)) return;
+      state.lessonIndex = nextIndex;
+      renderAll();
+      if (shouldJumpToDetail()) {
+        els.detail.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    });
+  }
 
   initGate();
 }

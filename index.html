@@ -4,6 +4,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Spoken English Patterns</title>
+  <meta name="theme-color" content="#20363a" />
+  <link rel="icon" type="image/svg+xml" sizes="any" href="favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,500;6..96,600;6..96,700&family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="scripts/styles.css" />
 </head>
 <body>
@@ -21,13 +26,50 @@
 
   <div class="shell" id="appShell" hidden aria-hidden="true">
     <header class="hero">
-      <h1>Spoken English Patterns</h1>
-      <p>500 natural American sentence patterns across 5 daily speaking scenes.</p>
+      <div class="hero-copy">
+        <div class="hero-kicker">Spoken English Atelier</div>
+        <h1>Spoken English Patterns</h1>
+        <p>Five daily speaking scenes, natural American phrasing, and replayable audio arranged like a private language study archive.</p>
+        <div class="hero-tags" aria-label="Site highlights">
+          <span>Shadowing-ready audio</span>
+          <span>Bilingual notes</span>
+          <span>Daily speaking scenes</span>
+        </div>
+      </div>
+      <div class="hero-side">
+        <section class="hero-note" aria-label="Current learning focus">
+          <span class="hero-note-label">Current Focus</span>
+          <strong id="heroCurrentScene">Unlock to begin</strong>
+          <p id="heroCurrentMeta">Pick a scene, scan a pattern, play the line, and mirror the rhythm.</p>
+        </section>
+        <div class="hero-stats" aria-label="Library overview">
+          <article class="stat-card">
+            <span class="stat-label">Scenes</span>
+            <strong id="statScenes">0</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Patterns</span>
+            <strong id="statLessons">0</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Audio Lines</span>
+            <strong id="statExamples">0</strong>
+          </article>
+        </div>
+      </div>
     </header>
     <nav class="scene-bar" id="sceneBar" aria-label="Scene selector"></nav>
     <main class="layout">
       <aside class="panel sidebar">
-        <h2>Sentence List</h2>
+        <div class="panel-heading">
+          <span class="panel-kicker">Library</span>
+          <h2>Sentence List</h2>
+          <p>Choose a pattern family, then open examples and audio from the study sheet.</p>
+        </div>
+        <div class="lesson-picker">
+          <label class="lesson-picker-label" for="lessonSelect">Choose Pattern</label>
+          <select class="lesson-select" id="lessonSelect" aria-label="Pattern selector"></select>
+        </div>
         <div class="lesson-list" id="lessonList"></div>
       </aside>
       <section class="panel detail" id="detail" aria-live="polite"></section>
